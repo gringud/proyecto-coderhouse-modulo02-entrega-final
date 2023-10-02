@@ -1,5 +1,7 @@
 import consultCargaTipo from "./../secciones/compartido/consultCargaTemplete.js";
 import guardarCarrito from "./../secciones/compartido/guardarCarrito.js"
+import actualizarContadorCarrito from "../secciones/compartido/actualizarContadorCarrito.js"
+
 const   d = document,
         ls = localStorage;
 
@@ -110,6 +112,8 @@ export default function buscarNombre(gridSeccion2, gridSeccion3){
                 }
 
             guardarCarrito(carritoObjeto, carritoID, carritoURL, carritoNombre, carritoValor);
+            
+            actualizarContadorCarrito(carritoObjeto);
         }
     })
 
@@ -121,5 +125,7 @@ export default function buscarNombre(gridSeccion2, gridSeccion3){
     carritoObjeto = JSON.parse(miCarritoDeCompras);
 
     console.log(carritoObjeto);
+    
+    actualizarContadorCarrito(carritoObjeto);
 
 };

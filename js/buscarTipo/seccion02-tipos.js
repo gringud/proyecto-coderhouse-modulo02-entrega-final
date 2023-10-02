@@ -1,6 +1,7 @@
 import cargarCarrito from "../secciones/compartido/cargarCarrito.js";
 import consultCargaTipo from "./../secciones/compartido/consultaCargaTipo.js";
 import guardarCarrito from "./../secciones/compartido/guardarCarrito.js";
+import actualizarContadorCarrito from "../secciones/compartido/actualizarContadorCarrito.js"
 
 
 
@@ -148,6 +149,8 @@ export default function buscarTipo(gridSeccion2, gridSeccion3){
                 }
 
             guardarCarrito(carritoObjeto, carritoID, carritoURL, carritoNombre, carritoValor);
+            
+            actualizarContadorCarrito(carritoObjeto);
         }
     })
 
