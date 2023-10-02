@@ -1,0 +1,6475 @@
+[
+      {
+        "id": 1,
+        "nombre": "Bulbasaur",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 2,
+        "nombre": "Ivysaur",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 3,
+        "nombre": "Venusaur",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 4,
+        "nombre": "Charmander",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 5,
+        "nombre": "Charmeleon",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 6,
+        "nombre": "Charizard",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 7,
+        "nombre": "Squirtle",
+        "valor_dolares": 11.0
+      },
+      {
+        "id": 8,
+        "nombre": "Wartortle",
+        "valor_dolares": 16.0
+      },
+      {
+        "id": 9,
+        "nombre": "Blastoise",
+        "valor_dolares": 22.0
+      },
+      {
+        "id": 10,
+        "nombre": "Caterpie",
+        "valor_dolares": 5.0
+      },
+      {
+        "id": 11,
+        "nombre": "Metapod",
+        "valor_dolares": 7.0
+      },
+      {
+        "id": 12,
+        "nombre": "Butterfree",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 13,
+        "nombre": "Weedle",
+        "valor_dolares": 4.0
+      },
+      {
+        "id": 14,
+        "nombre": "Kakuna",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 15,
+        "nombre": "Beedrill",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 16,
+        "nombre": "Pidgey",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 17,
+        "nombre": "Pidgeotto",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 18,
+        "nombre": "Pidgeot",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 19,
+        "nombre": "Rattata",
+        "valor_dolares": 7.0
+      },
+      {
+        "id": 20,
+        "nombre": "raticate",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 21,
+        "nombre": "Spearow",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 22,
+        "nombre": "Fearow",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 23,
+        "nombre": "Ekans",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 24,
+        "nombre": "Arbok",
+        "valor_dolares": 16.0
+      },
+      {
+        "id": 25,
+        "nombre": "Pikachu",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 26,
+        "nombre": "Raichu",
+        "valor_dolares": 22.0
+      },
+      {
+        "id": 27,
+        "nombre": "Sandshrew",
+        "valor_dolares": 9.0
+      },
+      {
+        "id": 28,
+        "nombre": "Sandslash",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 29,
+        "nombre": "Nidoran-F",
+        "valor_dolares": 11.0
+      },
+      {
+        "id": 30,
+        "nombre": "Nidorina",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 31,
+        "nombre": "Nidoqueen",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 32,
+        "nombre": "Nidoran-M",
+        "valor_dolares": 11.0
+      },
+      {
+        "id": 33,
+        "nombre": "Nidorino",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 34,
+        "nombre": "Nidoking",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 35,
+        "nombre": "Clefairy",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 36,
+        "nombre": "Clefable",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 37,
+        "nombre": "Vulpix",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 38,
+        "nombre": "Ninetales",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 39,
+        "nombre": "Jigglypuff",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 40,
+        "nombre": "Wigglytuff",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 41,
+        "nombre": "Zubat",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 42,
+        "nombre": "Golbat",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 43,
+        "nombre": "Oddish",
+        "valor_dolares": 9.0
+      },
+      {
+        "id": 44,
+        "nombre": "Gloom",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 45,
+        "nombre": "Vileplume",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 46,
+        "nombre": "Paras",
+        "valor_dolares": 7.0
+      },
+      {
+        "id": 47,
+        "nombre": "Parasect",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 48,
+        "nombre": "Venonat",
+        "valor_dolares": 9.0
+      },
+      {
+        "id": 49,
+        "nombre": "Venomoth",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 50,
+        "nombre": "Diglett",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 51,
+        "nombre": "Dugtrio",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 52,
+        "nombre": "Meowth",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 53,
+        "nombre": "Persian",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 54,
+        "nombre": "Psyduck",
+        "valor_dolares": 11.0
+      },
+      {
+        "id": 55,
+        "nombre": "Golduck",
+        "valor_dolares": 16.0
+      },
+      {
+        "id": 56,
+        "nombre": "Mankey",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 57,
+        "nombre": "Primeape",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 58,
+        "nombre": "Growlithe",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 59,
+        "nombre": "Arcanine",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 60,
+        "nombre": "Poliwag",
+        "valor_dolares": 9.0
+      },
+      {
+        "id": 61,
+        "nombre": "Poliwhirl",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 62,
+        "nombre": "Poliwrath",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 63,
+        "nombre": "Abra",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 64,
+        "nombre": "Kadabra",
+        "valor_dolares": 16.0
+      },
+      {
+        "id": 65,
+        "nombre": "Alakazam",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 66,
+        "nombre": "Machop",
+        "valor_dolares": 11.0
+      },
+      {
+        "id": 67,
+        "nombre": "Machoke",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 68,
+        "nombre": "Machamp",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 69,
+        "nombre": "Bellsprout",
+        "valor_dolares": 9.0
+      },
+      {
+        "id": 70,
+        "nombre": "Weepinbell",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 71,
+        "nombre": "Victreebel",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 72,
+        "nombre": "Tentacool",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 73,
+        "nombre": "Tentacruel",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 74,
+        "nombre": "Geodude",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 75,
+        "nombre": "Graveler",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 76,
+        "nombre": "Golem",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 77,
+        "nombre": "Ponyta",
+        "valor_dolares": 11.0
+      },
+      {
+        "id": 78,
+        "nombre": "Rapidash",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 79,
+        "nombre": "Slowpoke",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 80,
+        "nombre": "Slowbro",
+        "valor_dolares": 16.0
+      },
+      {
+        "id": 81,
+        "nombre": "Magnemite",
+        "valor_dolares": 9.0
+      },
+      {
+        "id": 82,
+        "nombre": "Magneton",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 83,
+        "nombre": "Farfetchd",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 84,
+        "nombre": "Doduo",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 85,
+        "nombre": "Dodrio",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 86,
+        "nombre": "Seel",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 87,
+        "nombre": "Dewgong",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 88,
+        "nombre": "Grimer",
+        "valor_dolares": 9.0
+      },
+      {
+        "id": 89,
+        "nombre": "Muk",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 90,
+        "nombre": "Shellder",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 91,
+        "nombre": "Cloyster",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 92,
+        "nombre": "Gastly",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 93,
+        "nombre": "Haunter",
+        "valor_dolares": 16.0
+      },
+      {
+        "id": 94,
+        "nombre": "Gengar",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 95,
+        "nombre": "Onix",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 96,
+        "nombre": "Drowzee",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 97,
+        "nombre": "Hypno",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 98,
+        "nombre": "Krabby",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 99,
+        "nombre": "Kingler",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 100,
+        "nombre": "Voltorb",
+        "valor_dolares": 10.0
+      },{
+        "id": 101,
+        "nombre": "Electrode",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 102,
+        "nombre": "Exeggcute",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 103,
+        "nombre": "Exeggutor",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 104,
+        "nombre": "Cubone",
+        "valor_dolares": 9.0
+      },
+      {
+        "id": 105,
+        "nombre": "Marowak",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 106,
+        "nombre": "Hitmonlee",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 107,
+        "nombre": "Hitmonchan",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 108,
+        "nombre": "Lickitung",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 109,
+        "nombre": "Koffing",
+        "valor_dolares": 9.0
+      },
+      {
+        "id": 110,
+        "nombre": "Weezing",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 111,
+        "nombre": "Rhyhorn",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 112,
+        "nombre": "Rhydon",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 113,
+        "nombre": "Chansey",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 114,
+        "nombre": "Tangela",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 115,
+        "nombre": "Kangaskhan",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 116,
+        "nombre": "Horsea",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 117,
+        "nombre": "Seadra",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 118,
+        "nombre": "Goldeen",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 119,
+        "nombre": "Seaking",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 120,
+        "nombre": "Staryu",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 121,
+        "nombre": "Starmie",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 122,
+        "nombre": "Mr-Mime",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 123,
+        "nombre": "Scyther",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 124,
+        "nombre": "Jynx",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 125,
+        "nombre": "Electabuzz",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 126,
+        "nombre": "Magmar",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 127,
+        "nombre": "Pinsir",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 128,
+        "nombre": "Tauros",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 129,
+        "nombre": "Magikarp",
+        "valor_dolares": 5.0
+      },
+      {
+        "id": 130,
+        "nombre": "Gyarados",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 131,
+        "nombre": "Lapras",
+        "valor_dolares": 22.0
+      },
+      {
+        "id": 132,
+        "nombre": "Ditto",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 133,
+        "nombre": "Eevee",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 134,
+        "nombre": "Vaporeon",
+        "valor_dolares": 22.0
+      },
+      {
+        "id": 135,
+        "nombre": "Jolteon",
+        "valor_dolares": 22.0
+      },
+      {
+        "id": 136,
+        "nombre": "Flareon",
+        "valor_dolares": 22.0
+      },
+      {
+        "id": 137,
+        "nombre": "Porygon",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 138,
+        "nombre": "Omanyte",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 139,
+        "nombre": "Omastar",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 140,
+        "nombre": "Kabuto",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 141,
+        "nombre": "Kabutops",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 142,
+        "nombre": "Aerodactyl",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 143,
+        "nombre": "Snorlax",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 144,
+        "nombre": "Articuno",
+        "valor_dolares": 30.0
+      },
+      {
+        "id": 145,
+        "nombre": "Zapdos",
+        "valor_dolares": 30.0
+      },
+      {
+        "id": 146,
+        "nombre": "Moltres",
+        "valor_dolares": 30.0
+      },
+      {
+        "id": 147,
+        "nombre": "Dratini",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 148,
+        "nombre": "Dragonair",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 149,
+        "nombre": "Dragonite",
+        "valor_dolares": 30.0
+      },
+      {
+        "id": 150,
+        "nombre": "Mewtwo",
+        "valor_dolares": 30.0
+      },
+      {
+        "id": 151,
+        "nombre": "Mew",
+        "valor_dolares": 30.0
+      },
+      {
+        "id": 152,
+        "nombre": "Chikorita",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 153,
+        "nombre": "Bayleef",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 154,
+        "nombre": "Meganium",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 155,
+        "nombre": "Cyndaquil",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 156,
+        "nombre": "Quilava",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 157,
+        "nombre": "Typhlosion",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 158,
+        "nombre": "Totodile",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 159,
+        "nombre": "Croconaw",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 160,
+        "nombre": "Feraligatr",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 161,
+        "nombre": "Sentret",
+        "valor_dolares": 7.0
+      },
+      {
+        "id": 162,
+        "nombre": "Furret",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 163,
+        "nombre": "Hoothoot",
+        "valor_dolares": 7.0
+      },
+      {
+        "id": 164,
+        "nombre": "Noctowl",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 165,
+        "nombre": "Ledyba",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 166,
+        "nombre": "Ledian",
+        "valor_dolares": 11.0
+      },
+      {
+        "id": 167,
+        "nombre": "Spinarak",
+        "valor_dolares": 5.0
+      },
+      {
+        "id": 168,
+        "nombre": "Ariados",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 169,
+        "nombre": "Crobat",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 170,
+        "nombre": "Chinchou",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 171,
+        "nombre": "Lanturn",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 172,
+        "nombre": "Pichu",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 173,
+        "nombre": "Cleffa",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 174,
+        "nombre": "Igglybuff",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 175,
+        "nombre": "Togepi",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 176,
+        "nombre": "Togetic",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 177,
+        "nombre": "Natu",
+        "valor_dolares": 7.0
+      },
+      {
+        "id": 178,
+        "nombre": "Xatu",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 179,
+        "nombre": "Mareep",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 180,
+        "nombre": "Flaaffy",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 181,
+        "nombre": "Ampharos",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 182,
+        "nombre": "Bellossom",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 183,
+        "nombre": "Marill",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 184,
+        "nombre": "Azumarill",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 185,
+        "nombre": "Sudowoodo",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 186,
+        "nombre": "Politoed",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 187,
+        "nombre": "Hoppip",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 188,
+        "nombre": "Skiploom",
+        "valor_dolares": 11.0
+      },
+      {
+        "id": 189,
+        "nombre": "Jumpluff",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 190,
+        "nombre": "Aipom",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 191,
+        "nombre": "Sunkern",
+        "valor_dolares": 5.0
+      },
+      {
+        "id": 192,
+        "nombre": "Sunflora",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 193,
+        "nombre": "Yanma",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 194,
+        "nombre": "Wooper",
+        "valor_dolares": 7.0
+      },
+      {
+        "id": 195,
+        "nombre": "Quagsire",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 196,
+        "nombre": "Espeon",
+        "valor_dolares": 22.0
+      },
+      {
+        "id": 197,
+        "nombre": "Umbreon",
+        "valor_dolares": 22.0
+      },
+      {
+        "id": 198,
+        "nombre": "Murkrow",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 199,
+        "nombre": "Slowking",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 200,
+        "nombre": "Misdreavus",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 201,
+        "nombre": "Unown",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 202,
+        "nombre": "Wobbuffet",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 203,
+        "nombre": "Girafarig",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 204,
+        "nombre": "Pineco",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 205,
+        "nombre": "Forretress",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 206,
+        "nombre": "Dunsparce",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 207,
+        "nombre": "Gligar",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 208,
+        "nombre": "Steelix",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 209,
+        "nombre": "Snubbull",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 210,
+        "nombre": "Granbull",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 211,
+        "nombre": "Qwilfish",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 212,
+        "nombre": "Scizor",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 213,
+        "nombre": "Shuckle",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 214,
+        "nombre": "Heracross",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 215,
+        "nombre": "Sneasel",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 216,
+        "nombre": "Teddiursa",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 217,
+        "nombre": "Ursaring",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 218,
+        "nombre": "Slugma",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 219,
+        "nombre": "Magcargo",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 220,
+        "nombre": "Swinub",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 221,
+        "nombre": "Piloswine",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 222,
+        "nombre": "Corsola",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 223,
+        "nombre": "Remoraid",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 224,
+        "nombre": "Octillery",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 225,
+        "nombre": "Delibird",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 226,
+        "nombre": "Mantine",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 227,
+        "nombre": "Skarmory",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 228,
+        "nombre": "Houndour",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 229,
+        "nombre": "Houndoom",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 230,
+        "nombre": "Kingdra",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 231,
+        "nombre": "Phanpy",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 232,
+        "nombre": "Donphan",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 233,
+        "nombre": "Porygon2",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 234,
+        "nombre": "Stantler",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 235,
+        "nombre": "Smeargle",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 236,
+        "nombre": "Tyrogue",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 237,
+        "nombre": "Hitmontop",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 238,
+        "nombre": "Smoochum",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 239,
+        "nombre": "Elekid",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 240,
+        "nombre": "Magby",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 241,
+        "nombre": "Miltank",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 242,
+        "nombre": "Blissey",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 243,
+        "nombre": "Raikou",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 244,
+        "nombre": "Entei",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 245,
+        "nombre": "Suicune",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 246,
+        "nombre": "Larvitar",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 247,
+        "nombre": "Pupitar",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 248,
+        "nombre": "Tyranitar",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 249,
+        "nombre": "Lugia",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 250,
+        "nombre": "Ho-Oh",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 251,
+        "nombre": "Celebi",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 252,
+        "nombre": "Treecko",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 253,
+        "nombre": "Grovyle",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 254,
+        "nombre": "Sceptile",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 255,
+        "nombre": "Torchic",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 256,
+        "nombre": "Combusken",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 257,
+        "nombre": "Blaziken",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 258,
+        "nombre": "Mudkip",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 259,
+        "nombre": "Marshtomp",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 260,
+        "nombre": "Swampert",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 261,
+        "nombre": "Poochyena",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 262,
+        "nombre": "Mightyena",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 263,
+        "nombre": "Zigzagoon",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 264,
+        "nombre": "Linoone",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 265,
+        "nombre": "Wurmple",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 266,
+        "nombre": "Silcoon",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 267,
+        "nombre": "Beautifly",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 268,
+        "nombre": "Cascoon",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 269,
+        "nombre": "Dustox",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 270,
+        "nombre": "Lotad",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 271,
+        "nombre": "Lombre",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 272,
+        "nombre": "Ludicolo",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 273,
+        "nombre": "Seedot",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 274,
+        "nombre": "Nuzleaf",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 275,
+        "nombre": "Shiftry",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 276,
+        "nombre": "Taillow",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 277,
+        "nombre": "Swellow",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 278,
+        "nombre": "Wingull",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 279,
+        "nombre": "Pelipper",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 280,
+        "nombre": "Ralts",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 281,
+        "nombre": "Kirlia",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 282,
+        "nombre": "Gardevoir",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 283,
+        "nombre": "Surskit",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 284,
+        "nombre": "Masquerain",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 285,
+        "nombre": "Shroomish",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 286,
+        "nombre": "Breloom",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 287,
+        "nombre": "Slakoth",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 288,
+        "nombre": "Vigoroth",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 289,
+        "nombre": "Slaking",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 290,
+        "nombre": "Nincada",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 291,
+        "nombre": "Ninjask",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 292,
+        "nombre": "Shedinja",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 293,
+        "nombre": "Whismur",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 294,
+        "nombre": "Loudred",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 295,
+        "nombre": "Exploud",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 296,
+        "nombre": "Makuhita",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 297,
+        "nombre": "Hariyama",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 298,
+        "nombre": "Azurill",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 299,
+        "nombre": "Nosepass",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 300,
+        "nombre": "Skitty",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 301,
+        "nombre": "Delcatty",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 302,
+        "nombre": "Sableye",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 303,
+        "nombre": "Mawile",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 304,
+        "nombre": "Aron",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 305,
+        "nombre": "Lairon",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 306,
+        "nombre": "Aggron",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 307,
+        "nombre": "Meditite",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 308,
+        "nombre": "Medicham",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 309,
+        "nombre": "Electrike",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 310,
+        "nombre": "Manectric",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 311,
+        "nombre": "Plusle",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 312,
+        "nombre": "Minun",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 313,
+        "nombre": "Volbeat",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 314,
+        "nombre": "Illumise",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 315,
+        "nombre": "Roselia",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 316,
+        "nombre": "Gulpin",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 317,
+        "nombre": "Swalot",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 318,
+        "nombre": "Carvanha",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 319,
+        "nombre": "Sharpedo",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 320,
+        "nombre": "Wailmer",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 321,
+        "nombre": "Wailord",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 322,
+        "nombre": "Numel",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 323,
+        "nombre": "Camerupt",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 324,
+        "nombre": "Torkoal",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 325,
+        "nombre": "Spoink",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 326,
+        "nombre": "Grumpig",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 327,
+        "nombre": "Spinda",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 328,
+        "nombre": "Trapinch",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 329,
+        "nombre": "Vibrava",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 330,
+        "nombre": "Flygon",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 331,
+        "nombre": "Cacnea",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 332,
+        "nombre": "Cacturne",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 333,
+        "nombre": "Swablu",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 334,
+        "nombre": "Altaria",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 335,
+        "nombre": "Zangoose",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 336,
+        "nombre": "Seviper",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 337,
+        "nombre": "Lunatone",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 338,
+        "nombre": "Solrock",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 339,
+        "nombre": "Barboach",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 340,
+        "nombre": "Whiscash",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 341,
+        "nombre": "Corphish",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 342,
+        "nombre": "Crawdaunt",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 343,
+        "nombre": "Baltoy",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 344,
+        "nombre": "Claydol",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 345,
+        "nombre": "Lileep",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 346,
+        "nombre": "Cradily",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 347,
+        "nombre": "Anorith",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 348,
+        "nombre": "Armaldo",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 349,
+        "nombre": "Feebas",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 350,
+        "nombre": "Milotic",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 351,
+        "nombre": "Castform",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 352,
+        "nombre": "Kecleon",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 353,
+        "nombre": "Shuppet",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 354,
+        "nombre": "Banette",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 355,
+        "nombre": "Duskull",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 356,
+        "nombre": "Dusclops",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 357,
+        "nombre": "Tropius",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 358,
+        "nombre": "Chimecho",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 359,
+        "nombre": "Absol",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 360,
+        "nombre": "Wynaut",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 361,
+        "nombre": "Snorunt",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 362,
+        "nombre": "Glalie",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 363,
+        "nombre": "Spheal",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 364,
+        "nombre": "Sealeo",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 365,
+        "nombre": "Walrein",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 366,
+        "nombre": "Clamperl",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 367,
+        "nombre": "Huntail",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 368,
+        "nombre": "Gorebyss",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 369,
+        "nombre": "Relicanth",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 370,
+        "nombre": "Luvdisc",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 371,
+        "nombre": "Bagon",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 372,
+        "nombre": "Shelgon",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 373,
+        "nombre": "Salamence",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 374,
+        "nombre": "Beldum",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 375,
+        "nombre": "Metang",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 376,
+        "nombre": "Metagross",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 377,
+        "nombre": "Regirock",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 378,
+        "nombre": "Regice",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 379,
+        "nombre": "Registeel",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 380,
+        "nombre": "Latias",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 381,
+        "nombre": "Latios",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 382,
+        "nombre": "Kyogre",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 383,
+        "nombre": "Groudon",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 384,
+        "nombre": "Rayquaza",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 385,
+        "nombre": "Jirachi",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 386,
+        "nombre": "Deoxys-Normal",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 387,
+        "nombre": "Turtwig",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 388,
+        "nombre": "Grotle",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 389,
+        "nombre": "Torterra",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 390,
+        "nombre": "Chimchar",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 391,
+        "nombre": "Monferno",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 392,
+        "nombre": "Infernape",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 393,
+        "nombre": "Piplup",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 394,
+        "nombre": "Prinplup",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 395,
+        "nombre": "Empoleon",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 396,
+        "nombre": "Starly",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 397,
+        "nombre": "Staravia",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 398,
+        "nombre": "Staraptor",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 399,
+        "nombre": "Bidoof",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 400,
+        "nombre": "Bibarel",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 401,
+        "nombre": "Kricketot",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 402,
+        "nombre": "Kricketune",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 403,
+        "nombre": "Shinx",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 404,
+        "nombre": "Luxio",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 405,
+        "nombre": "Luxray",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 406,
+        "nombre": "Budew",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 407,
+        "nombre": "Roserade",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 408,
+        "nombre": "Cranidos",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 409,
+        "nombre": "Rampardos",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 410,
+        "nombre": "Shieldon",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 411,
+        "nombre": "Bastiodon",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 412,
+        "nombre": "Burmy",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 413,
+        "nombre": "Wormadam-Plant",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 414,
+        "nombre": "Mothim",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 415,
+        "nombre": "Combee",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 416,
+        "nombre": "Vespiquen",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 417,
+        "nombre": "Pachirisu",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 418,
+        "nombre": "Buizel",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 419,
+        "nombre": "Floatzel",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 420,
+        "nombre": "Cherubi",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 421,
+        "nombre": "Cherrim",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 422,
+        "nombre": "Shellos",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 423,
+        "nombre": "Gastrodon",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 424,
+        "nombre": "Ambipom",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 425,
+        "nombre": "Drifloon",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 426,
+        "nombre": "Drifblim",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 427,
+        "nombre": "Buneary",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 428,
+        "nombre": "Lopunny",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 429,
+        "nombre": "Mismagius",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 430,
+        "nombre": "Honchkrow",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 431,
+        "nombre": "Glameow",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 432,
+        "nombre": "Purugly",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 433,
+        "nombre": "Chingling",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 434,
+        "nombre": "Stunky",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 435,
+        "nombre": "Skuntank",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 436,
+        "nombre": "Bronzor",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 437,
+        "nombre": "Bronzong",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 438,
+        "nombre": "Bonsly",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 439,
+        "nombre": "Mime-Jr",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 440,
+        "nombre": "Happiny",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 441,
+        "nombre": "Chatot",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 442,
+        "nombre": "Spiritomb",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 443,
+        "nombre": "Gible",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 444,
+        "nombre": "Gabite",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 445,
+        "nombre": "Garchomp",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 446,
+        "nombre": "Munchlax",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 447,
+        "nombre": "Riolu",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 448,
+        "nombre": "Lucario",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 449,
+        "nombre": "Hippopotas",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 450,
+        "nombre": "Hippowdon",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 451,
+        "nombre": "Skorupi",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 452,
+        "nombre": "Drapion",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 453,
+        "nombre": "Croagunk",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 454,
+        "nombre": "Toxicroak",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 455,
+        "nombre": "Carnivine",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 456,
+        "nombre": "Finneon",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 457,
+        "nombre": "Lumineon",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 458,
+        "nombre": "Mantyke",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 459,
+        "nombre": "Snover",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 460,
+        "nombre": "Abomasnow",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 461,
+        "nombre": "Weavile",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 462,
+        "nombre": "Magnezone",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 463,
+        "nombre": "Lickilicky",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 464,
+        "nombre": "Rhyperior",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 465,
+        "nombre": "Tangrowth",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 466,
+        "nombre": "Electivire",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 467,
+        "nombre": "Magmortar",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 468,
+        "nombre": "Togekiss",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 469,
+        "nombre": "Yanmega",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 470,
+        "nombre": "Leafeon",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 471,
+        "nombre": "Glaceon",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 472,
+        "nombre": "Gliscor",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 473,
+        "nombre": "Mamoswine",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 474,
+        "nombre": "Porygon-Z",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 475,
+        "nombre": "Gallade",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 476,
+        "nombre": "Probopass",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 477,
+        "nombre": "Dusknoir",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 478,
+        "nombre": "Froslass",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 479,
+        "nombre": "Rotom",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 480,
+        "nombre": "Uxie",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 481,
+        "nombre": "Mesprit",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 482,
+        "nombre": "Azelf",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 483,
+        "nombre": "Dialga",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 484,
+        "nombre": "Palkia",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 485,
+        "nombre": "Heatran",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 486,
+        "nombre": "Regigigas",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 487,
+        "nombre": "Giratina-Altered",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 488,
+        "nombre": "Cresselia",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 489,
+        "nombre": "Phione",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 490,
+        "nombre": "Manaphy",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 491,
+        "nombre": "Darkrai",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 492,
+        "nombre": "Shaymin-Land",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 493,
+        "nombre": "Arceus",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 494,
+        "nombre": "Victini",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 495,
+        "nombre": "Snivy",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 496,
+        "nombre": "Servine",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 497,
+        "nombre": "Serperior",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 498,
+        "nombre": "Tepig",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 499,
+        "nombre": "Pignite",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 500,
+        "nombre": "Emboar",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 501,
+        "nombre": "Oshawott",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 502,
+        "nombre": "Dewott",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 503,
+        "nombre": "Samurott",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 504,
+        "nombre": "Patrat",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 505,
+        "nombre": "Watchog",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 506,
+        "nombre": "Lillipup",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 507,
+        "nombre": "Herdier",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 508,
+        "nombre": "Stoutland",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 509,
+        "nombre": "Purrloin",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 510,
+        "nombre": "Liepard",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 511,
+        "nombre": "Pansage",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 512,
+        "nombre": "Simisage",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 513,
+        "nombre": "Pansear",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 514,
+        "nombre": "Simisear",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 515,
+        "nombre": "Panpour",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 516,
+        "nombre": "Simipour",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 517,
+        "nombre": "Munna",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 518,
+        "nombre": "Musharna",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 519,
+        "nombre": "Pidove",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 520,
+        "nombre": "Tranquill",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 521,
+        "nombre": "Unfezant",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 522,
+        "nombre": "Blitzle",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 523,
+        "nombre": "Zebstrika",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 524,
+        "nombre": "Roggenrola",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 525,
+        "nombre": "Boldore",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 526,
+        "nombre": "Gigalith",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 527,
+        "nombre": "Woobat",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 528,
+        "nombre": "Swoobat",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 529,
+        "nombre": "Drilbur",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 530,
+        "nombre": "Excadrill",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 531,
+        "nombre": "Audino",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 532,
+        "nombre": "Timburr",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 533,
+        "nombre": "Gurdurr",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 534,
+        "nombre": "Conkeldurr",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 535,
+        "nombre": "Tympole",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 536,
+        "nombre": "Palpitoad",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 537,
+        "nombre": "Seismitoad",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 538,
+        "nombre": "Throh",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 539,
+        "nombre": "Sawk",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 540,
+        "nombre": "Sewaddle",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 541,
+        "nombre": "Swadloon",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 542,
+        "nombre": "Leavanny",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 543,
+        "nombre": "Venipede",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 544,
+        "nombre": "Whirlipede",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 545,
+        "nombre": "Scolipede",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 546,
+        "nombre": "Cottonee",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 547,
+        "nombre": "Whimsicott",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 548,
+        "nombre": "Petilil",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 549,
+        "nombre": "Lilligant",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 550,
+        "nombre": "Basculin-Red-Striped",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 551,
+        "nombre": "Sandile",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 552,
+        "nombre": "Krokorok",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 553,
+        "nombre": "Krookodile",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 554,
+        "nombre": "Darumaka",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 555,
+        "nombre": "Darmanitan-Standard",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 556,
+        "nombre": "Maractus",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 557,
+        "nombre": "Dwebble",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 558,
+        "nombre": "Crustle",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 559,
+        "nombre": "Scraggy",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 560,
+        "nombre": "Scrafty",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 561,
+        "nombre": "Sigilyph",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 562,
+        "nombre": "Yamask",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 563,
+        "nombre": "Cofagrigus",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 564,
+        "nombre": "Tirtouga",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 565,
+        "nombre": "Carracosta",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 566,
+        "nombre": "Archen",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 567,
+        "nombre": "Archeops",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 568,
+        "nombre": "Trubbish",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 569,
+        "nombre": "Garbodor",
+        "valor_dolares": 21.0
+      },
+      {
+        "id": 570,
+        "nombre": "Zorua",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 571,
+        "nombre": "Zoroark",
+        "valor_dolares": 26.0
+      },
+      {
+        "id": 572,
+        "nombre": "Minccino",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 573,
+        "nombre": "Cinccino",
+        "valor_dolares": 16.0
+      },
+      {
+        "id": 574,
+        "nombre": "Gothita",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 575,
+        "nombre": "Gothorita",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 576,
+        "nombre": "Gothitelle",
+        "valor_dolares": 28.0
+      },
+      {
+        "id": 577,
+        "nombre": "Solosis",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 578,
+        "nombre": "Duosion",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 579,
+        "nombre": "Reuniclus",
+        "valor_dolares": 24.0
+      },
+      {
+        "id": 580,
+        "nombre": "Ducklett",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 581,
+        "nombre": "Swanna",
+        "valor_dolares": 16.0
+      },
+      {
+        "id": 582,
+        "nombre": "Vanillite",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 583,
+        "nombre": "Vanillish",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 584,
+        "nombre": "Vanilluxe",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 585,
+        "nombre": "Deerling",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 586,
+        "nombre": "Sawsbuck",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 587,
+        "nombre": "Emolga",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 588,
+        "nombre": "Karrablast",
+        "valor_dolares": 16.0
+      },
+      {
+        "id": 589,
+        "nombre": "Escavalier",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 590,
+        "nombre": "Foongus",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 591,
+        "nombre": "Amoonguss",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 592,
+        "nombre": "Frillish",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 593,
+        "nombre": "Jellicent",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 594,
+        "nombre": "Alomomola",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 595,
+        "nombre": "Joltik",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 596,
+        "nombre": "Galvantula",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 597,
+        "nombre": "Ferroseed",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 598,
+        "nombre": "Ferrothorn",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 599,
+        "nombre": "Klink",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 600,
+        "nombre": "Klang",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 601,
+        "nombre": "Klinklang",
+        "valor_dolares": 26.0
+      },
+      {
+        "id": 602,
+        "nombre": "Tynamo",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 603,
+        "nombre": "Eelektrik",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 604,
+        "nombre": "Eelektross",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 605,
+        "nombre": "Elgyem",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 606,
+        "nombre": "Beheeyem",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 607,
+        "nombre": "Litwick",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 608,
+        "nombre": "Lampent",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 609,
+        "nombre": "Chandelure",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 610,
+        "nombre": "Axew",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 611,
+        "nombre": "Fraxure",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 612,
+        "nombre": "Haxorus",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 613,
+        "nombre": "Cubchoo",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 614,
+        "nombre": "Beartic",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 615,
+        "nombre": "Cryogonal",
+        "valor_dolares": 16.0
+      },
+      {
+        "id": 616,
+        "nombre": "Shelmet",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 617,
+        "nombre": "Accelgor",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 618,
+        "nombre": "Stunfisk",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 619,
+        "nombre": "Mienfoo",
+        "valor_dolares": 19.0
+      },
+      {
+        "id": 620,
+        "nombre": "Mienshao",
+        "valor_dolares": 26.0
+      },
+      {
+        "id": 621,
+        "nombre": "Druddigon",
+        "valor_dolares": 29.0
+      },
+      {
+        "id": 622,
+        "nombre": "Golett",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 623,
+        "nombre": "Golurk",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 624,
+        "nombre": "Pawniard",
+        "valor_dolares": 13.0
+      },
+      {
+        "id": 625,
+        "nombre": "Bisharp",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 626,
+        "nombre": "Bouffalant",
+        "valor_dolares": 16.0
+      },
+      {
+        "id": 627,
+        "nombre": "Rufflet",
+        "valor_dolares": 13.0
+      },
+      {
+        "id": 628,
+        "nombre": "Braviary",
+        "valor_dolares": 22.0
+      },
+      {
+        "id": 629,
+        "nombre": "Vullaby",
+        "valor_dolares": 16.0
+      },
+      {
+        "id": 630,
+        "nombre": "Mandibuzz",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 631,
+        "nombre": "Heatmor",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 632,
+        "nombre": "Durant",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 633,
+        "nombre": "Deino",
+        "valor_dolares": 13.0
+      },
+      {
+        "id": 634,
+        "nombre": "Zweilous",
+        "valor_dolares": 19.0
+      },
+      {
+        "id": 635,
+        "nombre": "Hydreigon",
+        "valor_dolares": 26.0
+      },
+      {
+        "id": 636,
+        "nombre": "Larvesta",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 637,
+        "nombre": "Volcarona",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 638,
+        "nombre": "Cobalion",
+        "valor_dolares": 35.0
+      },
+      {
+        "id": 639,
+        "nombre": "Terrakion",
+        "valor_dolares": 35.0
+      },
+      {
+        "id": 640,
+        "nombre": "Virizion",
+        "valor_dolares": 35.0
+      },
+      {
+        "id": 641,
+        "nombre": "Tornadus-Incarnate",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 642,
+        "nombre": "Thundurus-Incarnate",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 643,
+        "nombre": "Reshiram",
+        "valor_dolares": 30.0
+      },
+      {
+        "id": 644,
+        "nombre": "Zekrom",
+        "valor_dolares": 40.0
+      },
+      {
+        "id": 645,
+        "nombre": "Landorus-Incarnate",
+        "valor_dolares": 40.0
+      },
+      {
+        "id": 646,
+        "nombre": "Kyurem",
+        "valor_dolares": 40.0
+      },
+      {
+        "id": 647,
+        "nombre": "Keldeo-Ordinary",
+        "valor_dolares": 22.0
+      },
+      {
+        "id": 648,
+        "nombre": "Meloetta-Aria",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 649,
+        "nombre": "Genesect",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 650,
+        "nombre": "Chespin",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 651,
+        "nombre": "Quilladin",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 652,
+        "nombre": "Chesnaught",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 653,
+        "nombre": "Fennekin",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 654,
+        "nombre": "Braixen",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 655,
+        "nombre": "Delphox",
+        "valor_dolares": 26.0
+      },
+      {
+        "id": 656,
+        "nombre": "Froakie",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 657,
+        "nombre": "Frogadier",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 658,
+        "nombre": "Greninja",
+        "valor_dolares": 26.0
+      },
+      {
+        "id": 659,
+        "nombre": "Bunnelby",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 660,
+        "nombre": "Diggersby",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 661,
+        "nombre": "Fletchling",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 662,
+        "nombre": "Fletchinder",
+        "valor_dolares": 13.0
+      },
+      {
+        "id": 663,
+        "nombre": "Talonflame",
+        "valor_dolares": 23.0
+      },
+      {
+        "id": 664,
+        "nombre": "Scatterbug",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 665,
+        "nombre": "Spewpa",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 666,
+        "nombre": "Vivillon",
+        "valor_dolares": 16.0
+      },
+      {
+        "id": 667,
+        "nombre": "Litleo",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 668,
+        "nombre": "Pyroar",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 669,
+        "nombre": "Flabebe",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 670,
+        "nombre": "Floette",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 671,
+        "nombre": "Florges",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 672,
+        "nombre": "Skiddo",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 673,
+        "nombre": "Gogoat",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 674,
+        "nombre": "Pancham",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 675,
+        "nombre": "Pangoro",
+        "valor_dolares": 19.0
+      },
+      {
+        "id": 676,
+        "nombre": "Furfrou",
+        "valor_dolares": 26.0
+      },
+      {
+        "id": 677,
+        "nombre": "Espurr",
+        "valor_dolares": 13.0
+      },
+      {
+        "id": 678,
+        "nombre": "Meowstic-Male",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 679,
+        "nombre": "Honedge",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 680,
+        "nombre": "Doublade",
+        "valor_dolares": 19.0
+      },
+      {
+        "id": 681,
+        "nombre": "Aegislash-Shield",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 682,
+        "nombre": "Spritzee",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 683,
+        "nombre": "Aromatisse",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 684,
+        "nombre": "Swirlix",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 685,
+        "nombre": "Slurpuff",
+        "valor_dolares": 13.0
+      },
+      {
+        "id": 686,
+        "nombre": "Inkay",
+        "valor_dolares": 6.0
+      },
+      {
+        "id": 687,
+        "nombre": "Malamar",
+        "valor_dolares": 13.0
+      },
+      {
+        "id": 688,
+        "nombre": "Binacle",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 689,
+        "nombre": "Barbaracle",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 690,
+        "nombre": "Skrelp",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 691,
+        "nombre": "Dragalge",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 692,
+        "nombre": "Clauncher",
+        "valor_dolares": 13.0
+      },
+      {
+        "id": 693,
+        "nombre": "Clawitzer",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 694,
+        "nombre": "Helioptile",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 695,
+        "nombre": "Heliolisk",
+        "valor_dolares": 19.0
+      },
+      {
+        "id": 696,
+        "nombre": "Tyrunt",
+        "valor_dolares": 13.0
+      },
+      {
+        "id": 697,
+        "nombre": "Tyrantrum",
+        "valor_dolares": 21.0
+      },
+      {
+        "id": 698,
+        "nombre": "Amaura",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 699,
+        "nombre": "Aurorus",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 700,
+        "nombre": "Sylveon",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 701,
+        "nombre": "Hawlucha",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 702,
+        "nombre": "Dedenne",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 703,
+        "nombre": "Carbink",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 704,
+        "nombre": "Goomy",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 705,
+        "nombre": "Sliggoo",
+        "valor_dolares": 13.0
+      },
+      {
+        "id": 706,
+        "nombre": "Goodra",
+        "valor_dolares": 19.0
+      },
+      {
+        "id": 707,
+        "nombre": "Klefki",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 708,
+        "nombre": "Phantump",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 709,
+        "nombre": "Trevenant",
+        "valor_dolares": 28.0
+      },
+      {
+        "id": 710,
+        "nombre": "Pumpkaboo-Average",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 711,
+        "nombre": "Gourgeist-Average",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 712,
+        "nombre": "Bergmite",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 713,
+        "nombre": "Avalugg",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 714,
+        "nombre": "Noibat",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 715,
+        "nombre": "Noivern",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 716,
+        "nombre": "Xerneas",
+        "valor_dolares": 19.0
+      },
+      {
+        "id": 717,
+        "nombre": "Yveltal",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 718,
+        "nombre": "Zygarde-50",
+        "valor_dolares": 35.0
+      },
+      {
+        "id": 719,
+        "nombre": "Diancie",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 720,
+        "nombre": "Hoopa",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 721,
+        "nombre": "Volcanion",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 722,
+        "nombre": "Rowlet",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 723,
+        "nombre": "Dartrix",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 724,
+        "nombre": "Decidueye",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 725,
+        "nombre": "Litten",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 726,
+        "nombre": "Torracat",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 727,
+        "nombre": "Incineroar",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 728,
+        "nombre": "Popplio",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 729,
+        "nombre": "Brionne",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 730,
+        "nombre": "Primarina",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 731,
+        "nombre": "Pikipek",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 732,
+        "nombre": "Trumbeak",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 733,
+        "nombre": "Toucannon",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 734,
+        "nombre": "Yungoos",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 735,
+        "nombre": "Gumshoos",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 736,
+        "nombre": "Grubbin",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 737,
+        "nombre": "Charjabug",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 738,
+        "nombre": "Vikavolt",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 739,
+        "nombre": "Crabrawler",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 740,
+        "nombre": "Crabominable",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 741,
+        "nombre": "Oricorio-Baile",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 742,
+        "nombre": "Cutiefly",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 743,
+        "nombre": "Ribombee",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 744,
+        "nombre": "Rockruff",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 745,
+        "nombre": "Lycanroc-Midday",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 746,
+        "nombre": "Wishiwashi-Solo",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 747,
+        "nombre": "Mareanie",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 748,
+        "nombre": "Toxapex",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 749,
+        "nombre": "Mudbray",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 750,
+        "nombre": "Mudsdale",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 751,
+        "nombre": "Dewpider",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 752,
+        "nombre": "Araquanid",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 753,
+        "nombre": "Fomantis",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 754,
+        "nombre": "Lurantis",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 755,
+        "nombre": "Morelull",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 756,
+        "nombre": "Shiinotic",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 757,
+        "nombre": "Salandit",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 758,
+        "nombre": "Salazzle",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 759,
+        "nombre": "Stufful",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 760,
+        "nombre": "Bewear",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 761,
+        "nombre": "Bounsweet",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 762,
+        "nombre": "Steenee",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 763,
+        "nombre": "Tsareena",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 764,
+        "nombre": "Comfey",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 765,
+        "nombre": "Oranguru",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 766,
+        "nombre": "Passimian",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 767,
+        "nombre": "Wimpod",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 768,
+        "nombre": "Golisopod",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 769,
+        "nombre": "Sandygast",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 770,
+        "nombre": "Palossand",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 771,
+        "nombre": "Pyukumuku",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 772,
+        "nombre": "Type-Null",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 773,
+        "nombre": "Silvally",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 774,
+        "nombre": "Minior-Red-Meteor",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 775,
+        "nombre": "Komala",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 776,
+        "nombre": "Turtonator",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 777,
+        "nombre": "Togedemaru",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 778,
+        "nombre": "Mimikyu-Disguised",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 779,
+        "nombre": "Bruxish",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 780,
+        "nombre": "Drampa",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 781,
+        "nombre": "Dhelmise",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 782,
+        "nombre": "Jangmo-o",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 783,
+        "nombre": "Hakamo-o",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 784,
+        "nombre": "Kommo-o",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 785,
+        "nombre": "Tapu-Koko",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 786,
+        "nombre": "Tapu-Lele",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 787,
+        "nombre": "Tapu-Bulu",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 788,
+        "nombre": "Tapu-Fini",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 789,
+        "nombre": "Cosmog",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 790,
+        "nombre": "Cosmoem",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 791,
+        "nombre": "Solgaleo",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 792,
+        "nombre": "Lunala",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 793,
+        "nombre": "Nihilego",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 794,
+        "nombre": "Buzzwole",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 795,
+        "nombre": "Pheromosa",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 796,
+        "nombre": "Xurkitree",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 797,
+        "nombre": "Celesteela",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 798,
+        "nombre": "Kartana",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 799,
+        "nombre": "Guzzlord",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 800,
+        "nombre": "Necrozma",
+        "valor_dolares": 35.0
+      },
+      {
+        "id": 801,
+        "nombre": "Magearna",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 802 ,
+        "nombre": "Marshadow",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 803,
+        "nombre": "Poipole",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 804,
+        "nombre": "Naganadel",
+        "valor_dolares": 28.0
+      },
+      {
+        "id": 805,
+        "nombre": "Stakataka",
+        "valor_dolares": 28.0
+      },
+      {
+        "id": 806,
+        "nombre": "Blacephalon",
+        "valor_dolares": 28.0
+      },
+      {
+        "id": 807,
+        "nombre": "Zeraora",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 808,
+        "nombre": "Meltan",
+        "valor_dolares": 15.0
+      },
+
+
+
+
+
+
+
+
+
+
+
+
+
+      {
+        "id": 809,
+        "nombre": "Melmetal",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 810,
+        "nombre": "Grookey",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 811,
+        "nombre": "Thwackey",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 812,
+        "nombre": "Rillaboom",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 813,
+        "nombre": "Scorbunny",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 814,
+        "nombre": "Raboot",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 815,
+        "nombre": "Cinderace",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 816,
+        "nombre": "Sobble",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 817,
+        "nombre": "Drizzile",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 818,
+        "nombre": "Inteleon",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 819,
+        "nombre": "Skwovet",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 820,
+        "nombre": "Greedent",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 821,
+        "nombre": "Rookidee",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 822,
+        "nombre": "Corvisquire",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 823,
+        "nombre": "Corviknight",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 824,
+        "nombre": "Blipbug",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 825,
+        "nombre": "Dottler",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 826,
+        "nombre": "Orbeetle",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 827,
+        "nombre": "Nickit",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 828,
+        "nombre": "Thievul",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 829,
+        "nombre": "Gossifleur",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 830,
+        "nombre": "Eldegoss",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 831,
+        "nombre": "Wooloo",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 832,
+        "nombre": "Dubwool",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 833,
+        "nombre": "Chewtle",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 834,
+        "nombre": "Drednaw",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 835,
+        "nombre": "Yamper",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 836,
+        "nombre": "Boltund",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 837,
+        "nombre": "Rolycoly",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 838,
+        "nombre": "Carkol",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 839,
+        "nombre": "Coalossal",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 840,
+        "nombre": "Applin",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 841,
+        "nombre": "Flapple",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 842,
+        "nombre": "Appletun",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 843,
+        "nombre": "Silicobra",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 844,
+        "nombre": "Sandaconda",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 845,
+        "nombre": "Cramorant",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 846,
+        "nombre": "Arrokuda",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 847,
+        "nombre": "Barraskewda",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 848,
+        "nombre": "Toxel",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 849,
+        "nombre": "Toxtricity-Amped",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 850,
+        "nombre": "Sizzlipede",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 851,
+        "nombre": "Centiskorch",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 852,
+        "nombre": "Clobbopus",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 853,
+        "nombre": "Grapploct",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 854,
+        "nombre": "Sinistea",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 855,
+        "nombre": "Polteageist",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 856,
+        "nombre": "Hatenna",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 857,
+        "nombre": "Hattrem",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 858,
+        "nombre": "Hatterene",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 859,
+        "nombre": "Impidimp",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 860,
+        "nombre": "Morgrem",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 861,
+        "nombre": "Grimmsnarl",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 862,
+        "nombre": "Obstagoon",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 863,
+        "nombre": "Perrserker",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 864,
+        "nombre": "Cursola",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 865,
+        "nombre": "Sirfetchd",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 866,
+        "nombre": "Mr-Rime",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 867,
+        "nombre": "Runerigus",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 868,
+        "nombre": "Milcery",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 869,
+        "nombre": "Alcremie",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 870,
+        "nombre": "Falinks",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 871,
+        "nombre": "Pincurchin",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 872,
+        "nombre": "Snom",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 873,
+        "nombre": "Frosmoth",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 874,
+        "nombre": "Stonjourner",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 875,
+        "nombre": "Eiscue-Ice",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 876,
+        "nombre": "Indeedee-Male",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 877,
+        "nombre": "Morpeko-Full-Belly",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 878,
+        "nombre": "Cufant",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 879,
+        "nombre": "Copperajah",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 880,
+        "nombre": "Dracozolt",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 881,
+        "nombre": "Arctozolt",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 882,
+        "nombre": "Dracovish",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 883,
+        "nombre": "Arctovish",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 884,
+        "nombre": "Duraludon",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 885,
+        "nombre": "Dreepy",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 886,
+        "nombre": "Drakloak",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 887,
+        "nombre": "Dragapult",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 888,
+        "nombre": "Zacian",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 889,
+        "nombre": "Zamazenta",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 890,
+        "nombre": "Eternatus",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 891,
+        "nombre": "Kubfu",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 892,
+        "nombre": "Urshifu-Single-Strike",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 893,
+        "nombre": "Zarude",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 894,
+        "nombre": "Regieleki",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 895,
+        "nombre": "Regidrago",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 896,
+        "nombre": "Glastrier",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 897,
+        "nombre": "Spectrier",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 898,
+        "nombre": "Calyrex",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 899,
+        "nombre": "Wyrdeer",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 900,
+        "nombre": "Kleavor",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 901,
+        "nombre": "Ursaluna",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 902,
+        "nombre": "Basculegion-Male",
+        "valor_dolares": 30.0
+      },
+      {
+        "id": 903,
+        "nombre": "Sneasler",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 904,
+        "nombre": "Overqwil",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 905,
+        "nombre": "Enamorus-Incarnate",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 906,
+        "nombre": "Sprigatito",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 907,
+        "nombre": "Floragato",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 908,
+        "nombre": "Meowscarada",
+        "valor_dolares": 28.0
+      },
+      {
+        "id": 909,
+        "nombre": "Fuecoco",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 910,
+        "nombre": "Crocalor",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 911,
+        "nombre": "Skeledirge",
+        "valor_dolares": 30.0
+      },
+      {
+        "id": 912,
+        "nombre": "Quaxly",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 913,
+        "nombre": "Quaxwell",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 914,
+        "nombre": "Quaquaval",
+        "valor_dolares": 30.0
+      },
+      {
+        "id": 915,
+        "nombre": "Lechonk",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 916,
+        "nombre": "Oinkologne",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 917,
+        "nombre": "Tarountula",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 918,
+        "nombre": "Spidops",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 919,
+        "nombre": "Nymble",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 920,
+        "nombre": "Lokix",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 921,
+        "nombre": "Pawmi",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 922,
+        "nombre": "Pawmo",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 923,
+        "nombre": "Pawmot",
+        "valor_dolares": 22.0
+      },
+      {
+        "id": 924,
+        "nombre": "Tandemaus",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 925,
+        "nombre": "Maushold",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 926,
+        "nombre": "Fidough",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 927,
+        "nombre": "Dachsbun",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 928,
+        "nombre": "Smoliv",
+        "valor_dolares": 30.0
+      },
+      {
+        "id": 929,
+        "nombre": "Dolliv",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 930,
+        "nombre": "Arboliva",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 931,
+        "nombre": "Squawkabilly",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 932,
+        "nombre": "Nacli",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 933,
+        "nombre": "Naclstack",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 934,
+        "nombre": "Garganacl",
+        "valor_dolares": 28.0
+      },
+      {
+        "id": 935,
+        "nombre": "Charcadet",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 936,
+        "nombre": "Armarouge",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 937,
+        "nombre": "Ceruledge",
+        "valor_dolares": 35.0
+      },
+      {
+        "id": 938,
+        "nombre": "Tadbulb",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 939,
+        "nombre": "Bellibolt",
+        "valor_dolares": 14.0
+      },
+      {
+        "id": 940,
+        "nombre": "Wattrel",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 941,
+        "nombre": "Kilowattrel",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 942,
+        "nombre": "Maschiff",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 943,
+        "nombre": "Mabosstiff",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 944,
+        "nombre": "Shroodle",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 945,
+        "nombre": "Grafaiai",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 946,
+        "nombre": "Bramblin",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 947,
+        "nombre": "Brambleghast",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 948,
+        "nombre": "Toedscool",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 949,
+        "nombre": "Toedscruel",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 950,
+        "nombre": "Klawf",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 951,
+        "nombre": "Capsakid",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 952,
+        "nombre": "Scovillain",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 953,
+        "nombre": "Rellor",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 954,
+        "nombre": "Rabsca",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 955,
+        "nombre": "Flittle",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 956,
+        "nombre": "Espathra",
+        "valor_dolares": 19.0
+      },
+      {
+        "id": 957,
+        "nombre": "Tinkatink",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 958,
+        "nombre": "Tinkatuff",
+        "valor_dolares": 20.0
+      },
+      {
+        "id": 959,
+        "nombre": "Tinkaton",
+        "valor_dolares": 25.0
+      },
+      {
+        "id": 960,
+        "nombre": "Wiglett",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 961,
+        "nombre": "Wugtrio",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 962,
+        "nombre": "Bombirdier",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 963,
+        "nombre": "Finizen",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 964,
+        "nombre": "Palafin",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 965,
+        "nombre": "Varoom",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 966,
+        "nombre": "Revavroom",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 967,
+        "nombre": "Cyclizar",
+        "valor_dolares": 22.0
+      },
+      {
+        "id": 968,
+        "nombre": "Orthworm",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 969,
+        "nombre": "Glimmet",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 970,
+        "nombre": "Glimmora",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 971,
+        "nombre": "Greavard",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 972,
+        "nombre": "Houndstone",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 973,
+        "nombre": "Flamigo",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 974,
+        "nombre": "Cetoddle",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 975,
+        "nombre": "Cetitan",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 976,
+        "nombre": "Veluza",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 977,
+        "nombre": "Dondozo",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 978,
+        "nombre": "Tatsugiri",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 979,
+        "nombre": "Annihilape",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 980,
+        "nombre": "Clodsire",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 981,
+        "nombre": "Farigiraf",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 982,
+        "nombre": "Dudunsparce",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 983,
+        "nombre": "Kingambit",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 984,
+        "nombre": "Great-Tusk",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 985,
+        "nombre": "Scream-Tail",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 986,
+        "nombre": "Brute-Bonnet",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 987,
+        "nombre": "Flutter-Mane",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 988,
+        "nombre": "Slither-Wing",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 989,
+        "nombre": "Sandy-Shocks",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 990,
+        "nombre": "Iron-Treads",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 991,
+        "nombre": "Iron-Bundle",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 992,
+        "nombre": "Iron-Hands",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 993,
+        "nombre": "Iron-Jugulis",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 994,
+        "nombre": "Iron-Moth",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 995,
+        "nombre": "Iron-Thorns",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 996,
+        "nombre": "Frigibax",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 997,
+        "nombre": "Arctibax",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 998,
+        "nombre": "Baxcalibur",
+        "valor_dolares": 19.0
+      },
+      {
+        "id": 999,
+        "nombre": "Gimmighoul",
+        "valor_dolares": 15.0
+      },
+      {
+        "id": 1000,
+        "nombre": "Gholdengo",
+        "valor_dolares": 8.0
+      },
+      {
+        "id": 1001,
+        "nombre": "Wo-Chien",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 1002,
+        "nombre": "Chien-Pao",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 1003,
+        "nombre": "Ting-Lu",
+        "valor_dolares": 18.0
+      },
+      {
+        "id": 1004,
+        "nombre": "Chi-Yu",
+        "valor_dolares": 10.0
+      },
+      {
+        "id": 1005,
+        "nombre": "Roaring-Moon",
+        "valor_dolares": 12.0
+      },
+      {
+        "id": 1006,
+        "nombre": "Iron-Valiant",
+        "valor_dolares": 28.0
+      },
+      {
+        "id": 1007,
+        "nombre": "Koraidon",
+        "valor_dolares": 35.0
+      },
+      {
+        "id": 1008,
+        "nombre": "Miraidon",
+        "valor_dolares": 35.0
+      },
+      {
+        "id": 1009,
+        "nombre": "Walking-Wake",
+        "valor_dolares": 40.0
+      },
+      {
+        "id": 1010,
+        "nombre": "Iron-Leaves",
+        "valor_dolares": 40.0
+      },
+      {
+        "id": 1011,
+        "nombre": "Dipplin",
+        "valor_dolares": 40.0
+      },
+      {
+        "id": 1012,
+        "nombre": "Poltchageist",
+        "valor_dolares": 40.0
+      },
+      {
+        "id": 1013,
+        "nombre": "Sinistcha",
+        "valor_dolares": 40.0
+      },
+      {
+        "id": 1014,
+        "nombre": "Okidogi",
+        "valor_dolares": 40.0
+      },
+      {
+        "id": 1015,
+        "nombre": "Munkidori",
+        "valor_dolares": 40.0
+      },
+      {
+        "id": 1016,
+        "nombre": "Fezandipiti",
+        "valor_dolares": 40.0
+      },
+      {
+        "id": 1017,
+        "nombre": "Ogerpon",
+        "valor_dolares": 40.0
+      },
+      {
+        "id": 10001,
+        "nombre": "Deoxys-attack",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10002,
+        "nombre": "Deoxys-defense",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10003,
+        "nombre": "Deoxys-speed",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10004,
+        "nombre": "Wormadam-sandy",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10005,
+        "nombre": "Wormadam-trash",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10006,
+        "nombre": "Shaymin-sky",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10007,
+        "nombre": "Giratina-origin",
+        "valor_dolares": 30.0
+        },
+        {
+        "id": 10008,
+        "nombre": "Rotom-heat",
+        "valor_dolares": 10.0
+        },
+        {
+        "id": 10009,
+        "nombre": "Rotom-wash",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10010,
+        "nombre": "Rotom-frost",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10011,
+        "nombre": "Rotom-fan",
+        "valor_dolares": 10.0
+        },
+        {
+        "id": 10012,
+        "nombre": "Rotom-mow",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10013,
+        "nombre": "Castform-sunny",
+        "valor_dolares": 10.0
+        },
+        {
+        "id": 10014,
+        "nombre": "Castform-rainy",
+        "valor_dolares": 15.0
+        },
+        {
+        "id": 10015,
+        "nombre": "Castform-snowy",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10016,
+        "nombre": "Basculin-blue-striped",
+        "valor_dolares": 10.0
+        },
+        {
+        "id": 10017,
+        "nombre": "Darmanitan-zen",
+        "valor_dolares": 15.0
+        },
+        {
+        "id": 10018,
+        "nombre": "Meloetta-pirouette",
+        "valor_dolares": 15.0
+        },
+        {
+        "id": 10019,
+        "nombre": "Tornadus-therian",
+        "valor_dolares": 25.0
+        },
+        {
+        "id": 10020,
+        "nombre": "Thundurus-therian",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10021,
+        "nombre": "Landorus-therian",
+        "valor_dolares": 40.0
+        },
+        {
+        "id": 10022,
+        "nombre": "Kyurem-black",
+        "valor_dolares": 40.0
+        },
+        {
+        "id": 10023,
+        "nombre": "Kyurem-white",
+        "valor_dolares": 30.0
+        },
+        {
+        "id": 10024,
+        "nombre": "Keldeo-resolute",
+        "valor_dolares": 30.0
+        },
+        {
+        "id": 10025,
+        "nombre": "Meowstic-female",
+        "valor_dolares": 30.0
+        },
+        {
+        "id": 10026,
+        "nombre": "Aegislash-blade",
+        "valor_dolares": 30.0
+        },
+        {
+        "id": 10027,
+        "nombre": "Pumpkaboo-small",
+        "valor_dolares": 10.0
+        },
+        {
+        "id": 10028,
+        "nombre": "Pumpkaboo-large",
+        "valor_dolares": 15.0
+        },
+        {
+        "id": 10029,
+        "nombre": "Pumpkaboo-super",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10030,
+        "nombre": "Gourgeist-small",
+        "valor_dolares": 10.0
+        },
+        {
+        "id": 10031,
+        "nombre": "Gourgeist-large",
+        "valor_dolares": 10.0
+        },
+        {
+        "id": 10032,
+        "nombre": "Gourgeist-super",
+        "valor_dolares": 10.0
+        },
+        {
+        "id": 10033,
+        "nombre": "Venusaur-mega",
+        "valor_dolares": 45.0
+        },
+        {
+        "id": 10034,
+        "nombre": "Charizard-mega-x",
+        "valor_dolares": 45.0
+        },
+        {
+        "id": 10035,
+        "nombre": "Charizard-mega-y",
+        "valor_dolares": 45.0
+        },
+        {
+        "id": 10036,
+        "nombre": "Blastoise-mega",
+        "valor_dolares": 45.0
+        },
+        {
+        "id": 10037,
+        "nombre": "Alakazam-mega",
+        "valor_dolares": 45.0
+        },
+        {
+        "id": 10038,
+        "nombre": "Gengar-mega",
+        "valor_dolares": 45.0
+        },
+        {
+        "id": 10039,
+        "nombre": "Kangaskhan-mega",
+        "valor_dolares": 40.0
+        },
+        {
+        "id": 10040,
+        "nombre": "Pinsir-mega",
+        "valor_dolares": 40.0
+        },
+        {
+        "id": 10041,
+        "nombre": "Gyarados-mega",
+        "valor_dolares": 40.0
+        },
+        {
+        "id": 10042,
+        "nombre": "Aerodactyl-mega",
+        "valor_dolares": 40.0
+        },
+        {
+        "id": 10043,
+        "nombre": "Mewtwo-mega-x",
+        "valor_dolares": 45.0
+        },
+        {
+        "id": 10044,
+        "nombre": "Mewtwo-mega-y",
+        "valor_dolares": 55.0
+        },
+        {
+        "id": 10045,
+        "nombre": "Ampharos-mega",
+        "valor_dolares": 40.0
+        },
+        {
+        "id": 10046,
+        "nombre": "Scizor-mega",
+        "valor_dolares": 40.0
+        },
+        {
+        "id": 10047,
+        "nombre": "Heracross-mega",
+        "valor_dolares": 40.0
+        },
+        {
+        "id": 10048,
+        "nombre": "Houndoom-mega",
+        "valor_dolares": 40.0
+        },
+        {
+        "id": 10049,
+        "nombre": "Tyranitar-mega",
+        "valor_dolares": 40.0
+        },
+        {
+        "id": 10050,
+        "nombre": "Blaziken-mega",
+        "valor_dolares": 40.0
+        },
+        {
+        "id": 10051,
+        "nombre": "Gardevoir-mega",
+        "valor_dolares": 40.0
+        },
+        {
+        "id": 10052,
+        "nombre": "Mawile-mega",
+        "valor_dolares": 40.0
+        },
+        {
+        "id": 10053,
+        "nombre": "Aggron-mega",
+        "valor_dolares": 40.0
+        },
+        {
+        "id": 10054,
+        "nombre": "Medicham-mega",
+        "valor_dolares": 40.0
+        },
+        {
+        "id": 10055,
+        "nombre": "Manectric-mega",
+        "valor_dolares": 40.0
+        },
+        {
+        "id": 10056,
+        "nombre": "Banette-mega",
+        "valor_dolares": 40.0
+        },
+        {
+        "id": 10057,
+        "nombre": "Absol-mega",
+        "valor_dolares": 40.0
+        },
+        {
+        "id": 10058,
+        "nombre": "Garchomp-mega",
+        "valor_dolares": 10.0
+        },
+        {
+        "id": 10059,
+        "nombre": "Lucario-mega",
+        "valor_dolares": 45.0
+        },
+        {
+        "id": 10060,
+        "nombre": "Abomasnow-mega",
+        "valor_dolares": 40.0
+        },
+        {
+        "id": 10061,
+        "nombre": "Floette-eternal",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10062,
+        "nombre": "Latias-mega",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10063,
+        "nombre": "Latios-mega",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10064,
+        "nombre": "Swampert-mega",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10065,
+        "nombre": "Sceptile-mega",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10066,
+        "nombre": "Sableye-mega",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10067,
+        "nombre": "Altaria-mega",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10068,
+        "nombre": "Gallade-mega",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10069,
+        "nombre": "Audino-mega",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10070,
+        "nombre": "Sharpedo-mega",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10071,
+        "nombre": "Slowbro-mega",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10072,
+        "nombre": "Steelix-mega",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10073,
+        "nombre": "Pidgeot-mega",
+        "valor_dolares": 40.0
+        },
+        {
+        "id": 10074,
+        "nombre": "Glalie-mega",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10075,
+        "nombre": "Diancie-mega",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10076,
+        "nombre": "Metagross-mega",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10077,
+        "nombre": "Kyogre-primal",
+        "valor_dolares": 40.0
+        },
+        {
+        "id": 10078,
+        "nombre": "Groudon-primal",
+        "valor_dolares": 40.0
+        },
+        {
+        "id": 10079,
+        "nombre": "Rayquaza-mega",
+        "valor_dolares": 40.0
+        },
+        {
+        "id": 10080,
+        "nombre": "Pikachu-rock-star",
+        "valor_dolares": 40.0
+        },
+        {
+        "id": 10081,
+        "nombre": "Pikachu-belle",
+        "valor_dolares": 40.0
+        },
+        {
+        "id": 10082,
+        "nombre": "Pikachu-pop-star",
+        "valor_dolares": 40.0
+        },
+        {
+        "id": 10083,
+        "nombre": "Pikachu-phd",
+        "valor_dolares": 40.0
+        },
+        {
+        "id": 10084,
+        "nombre": "Pikachu-libre",
+        "valor_dolares": 40.0
+        },
+        {
+        "id": 10085,
+        "nombre": "Pikachu-cosplay",
+        "valor_dolares": 40.0
+        },
+        {
+        "id": 10086,
+        "nombre": "Hoopa-unbound",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10087,
+        "nombre": "Camerupt-mega",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10088,
+        "nombre": "Lopunny-mega",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10089,
+        "nombre": "Salamence-mega",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10090,
+        "nombre": "Beedrill-mega",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10091,
+        "nombre": "Rattata-alola",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10092,
+        "nombre": "Raticate-alola",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10093,
+        "nombre": "Raticate-totem-alola",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10094,
+        "nombre": "Pikachu-original-cap",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10095,
+        "nombre": "Pikachu-hoenn-cap",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10096,
+        "nombre": "Pikachu-sinnoh-cap",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10097,
+        "nombre": "Pikachu-unova-cap",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10098,
+        "nombre": "Pikachu-kalos-cap",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10099,
+        "nombre": "Pikachu-alola-cap",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10100,
+        "nombre": "Raichu-alola",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10101,
+        "nombre": "Sandshrew-alola",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10102,
+        "nombre": "Sandslash-alola",
+        "valor_dolares": 45.0
+        },
+        {
+        "id": 10103,
+        "nombre": "Vulpix-alola",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10104,
+        "nombre": "Ninetales-alola",
+        "valor_dolares": 45.0
+        },
+        {
+        "id": 10105,
+        "nombre": "Diglett-alola",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10106,
+        "nombre": "Dugtrio-alola",
+        "valor_dolares": 30.0
+        },
+        {
+        "id": 10107,
+        "nombre": "Meowth-alola",
+        "valor_dolares": 15.0
+        },
+        {
+        "id": 10108,
+        "nombre": "Persian-alola",
+        "valor_dolares": 24.0
+        },
+        {
+        "id": 10109,
+        "nombre": "Geodude-alola",
+        "valor_dolares": 10.0
+        },
+        {
+        "id": 10110,
+        "nombre": "Graveler-alola",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10111,
+        "nombre": "Golem-alola",
+        "valor_dolares": 30.0
+        },
+        {
+        "id": 10112,
+        "nombre": "Grimer-alola",
+        "valor_dolares": 15.0
+        },
+        {
+        "id": 10113,
+        "nombre": "Muk-alola",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10114,
+        "nombre": "Exeggutor-alola",
+        "valor_dolares": 30.0
+        },
+        {
+        "id": 10115,
+        "nombre": "Marowak-alola",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10116,
+        "nombre": "Greninja-battle-bond",
+        "valor_dolares": 30.0
+        },
+        {
+        "id": 10117,
+        "nombre": "Greninja-ash",
+        "valor_dolares": 30.0
+        },
+        {
+        "id": 10118,
+        "nombre": "Zygarde-10-power-construct",
+        "valor_dolares": 30.0
+        },
+        {
+        "id": 10119,
+        "nombre": "Zygarde-50-power-construct",
+        "valor_dolares": 25.0
+        },
+        {
+        "id": 10120,
+        "nombre": "Zygarde-complete",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10121,
+        "nombre": "Gumshoos-totem",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10122,
+        "nombre": "Vikavolt-totem",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10123,
+        "nombre": "Oricorio-pom-pom",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10124,
+        "nombre": "Oricorio-pau",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10125,
+        "nombre": "Oricorio-sensu",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10126,
+        "nombre": "Lycanroc-midnight",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10127,
+        "nombre": "Wishiwashi-school",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10128,
+        "nombre": "Lurantis-totem",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10129,
+        "nombre": "Salazzle-totem",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10130,
+        "nombre": "Minior-orange-meteor",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10131,
+        "nombre": "Minior-yellow-meteor",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10132,
+        "nombre": "Minior-green-meteor",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10133,
+        "nombre": "Minior-blue-meteor",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10134,
+        "nombre": "Minior-indigo-meteor",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10135,
+        "nombre": "Minior-violet-meteor",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10136,
+        "nombre": "Minior-red",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10137,
+        "nombre": "Minior-orange",
+        "valor_dolares": 10.0
+        },
+        {
+        "id": 10138,
+        "nombre": "Minior-yellow",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10139,
+        "nombre": "Minior-green",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10140,
+        "nombre": "Minior-blue",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10141,
+        "nombre": "Minior-indigo",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10142,
+        "nombre": "Minior-violet",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10143,
+        "nombre": "Mimikyu-busted",
+        "valor_dolares": 25.0
+        },
+        {
+        "id": 10144,
+        "nombre": "Mimikyu-totem-disguised",
+        "valor_dolares": 25.0
+        },
+        {
+        "id": 10145,
+        "nombre": "Mimikyu-totem-busted",
+        "valor_dolares": 25.0
+        },
+        {
+        "id": 10146,
+        "nombre": "Kommo-o-totem",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10147,
+        "nombre": "Magearna-original",
+        "valor_dolares": 25.0
+        },
+        {
+        "id": 10148,
+        "nombre": "Pikachu-partner-cap",
+        "valor_dolares": 25.0
+        },
+        {
+        "id": 10149,
+        "nombre": "Marowak-totem",
+        "valor_dolares": 25.0
+        },
+        {
+        "id": 10150,
+        "nombre": "Ribombee-totem",
+        "valor_dolares": 25.0
+        },
+        {
+        "id": 10151,
+        "nombre": "Rockruff-own-tempo",
+        "valor_dolares": 25.0
+        },
+        {
+        "id": 10152,
+        "nombre": "Lycanroc-dusk",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10153,
+        "nombre": "Araquanid-totem",
+        "valor_dolares": 25.0
+        },
+        {
+        "id": 10154,
+        "nombre": "Togedemaru-totem",
+        "valor_dolares": 25.0
+        },
+        {
+        "id": 10155,
+        "nombre": "Necrozma-dusk",
+        "valor_dolares": 25.0
+        },
+        {
+        "id": 10156,
+        "nombre": "Necrozma-dawn",
+        "valor_dolares": 25.0
+        },
+        {
+        "id": 10157,
+        "nombre": "Necrozma-ultra",
+        "valor_dolares": 25.0
+        },
+        {
+        "id": 10158,
+        "nombre": "Pikachu-starter",
+        "valor_dolares": 25.0
+        },
+        {
+        "id": 10159,
+        "nombre": "Eevee-starter",
+        "valor_dolares": 25.0
+        },
+        {
+        "id": 10160,
+        "nombre": "Pikachu-world-cap",
+        "valor_dolares": 25.0
+        },
+        {
+        "id": 10161,
+        "nombre": "Meowth-galar",
+        "valor_dolares": 25.0
+        },
+        {
+        "id": 10162,
+        "nombre": "Ponyta-galar",
+        "valor_dolares": 25.0
+        },
+        {
+        "id": 10163,
+        "nombre": "Rapidash-galar",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10164,
+        "nombre": "Slowpoke-galar",
+        "valor_dolares": 15.0
+        },
+        {
+        "id": 10165,
+        "nombre": "Slowbro-galar",
+        "valor_dolares": 25.0
+        },
+        {
+        "id": 10166,
+        "nombre": "Farfetchd-galar",
+        "valor_dolares": 25.0
+        },
+        {
+        "id": 10167,
+        "nombre": "Weezing-galar",
+        "valor_dolares": 25.0
+        },
+        {
+        "id": 10168,
+        "nombre": "Mr-mime-galar",
+        "valor_dolares": 25.0
+        },
+        {
+        "id": 10169,
+        "nombre": "Articuno-galar",
+        "valor_dolares": 40.0
+        },
+        {
+        "id": 10170,
+        "nombre": "Zapdos-galar",
+        "valor_dolares": 40.0
+        },
+        {
+        "id": 10171,
+        "nombre": "Moltres-galar",
+        "valor_dolares": 40.0
+        },
+        {
+        "id": 10172,
+        "nombre": "Slowking-galar",
+        "valor_dolares": 40.0
+        },
+        {
+        "id": 10173,
+        "nombre": "Corsola-galar",
+        "valor_dolares": 15.0
+        },
+        {
+        "id": 10174,
+        "nombre": "Zigzagoon-galar",
+        "valor_dolares": 15.0
+        },
+        {
+        "id": 10175,
+        "nombre": "Linoone-galar",
+        "valor_dolares": 15.0
+        },
+        {
+        "id": 10176,
+        "nombre": "Darumaka-galar",
+        "valor_dolares": 15.0
+        },
+        {
+        "id": 10177,
+        "nombre": "Darmanitan-galar-standard",
+        "valor_dolares": 15.0
+        },
+        {
+        "id": 10178,
+        "nombre": "Darmanitan-galar-zen",
+        "valor_dolares": 15.0
+        },
+        {
+        "id": 10179,
+        "nombre": "Yamask-galar",
+        "valor_dolares": 15.0
+        },
+        {
+        "id": 10180,
+        "nombre": "Stunfisk-galar",
+        "valor_dolares": 15.0
+        },
+        {
+        "id": 10181,
+        "nombre": "Zygarde-10",
+        "valor_dolares": 15.0
+        },
+        {
+        "id": 10182,
+        "nombre": "Cramorant-gulping",
+        "valor_dolares": 15.0
+        },
+        {
+        "id": 10183,
+        "nombre": "Cramorant-gorging",
+        "valor_dolares": 15.0
+        },
+        {
+        "id": 10184,
+        "nombre": "Toxtricity-low-key",
+        "valor_dolares": 15.0
+        },
+        {
+        "id": 10185,
+        "nombre": "Eiscue-noice",
+        "valor_dolares": 15.0
+        },
+        {
+        "id": 10186,
+        "nombre": "Indeedee-female",
+        "valor_dolares": 15.0
+        },
+        {
+        "id": 10187,
+        "nombre": "Morpeko-hangry",
+        "valor_dolares": 15.0
+        },
+        {
+        "id": 10188,
+        "nombre": "Zacian-crowned",
+        "valor_dolares": 26.0
+        },
+        {
+        "id": 10189,
+        "nombre": "Zamazenta-crowned",
+        "valor_dolares": 38.0
+        },
+        {
+        "id": 10190,
+        "nombre": "Eternatus-eternamax",
+        "valor_dolares": 29.0
+        },
+        {
+        "id": 10191,
+        "nombre": "Urshifu-rapid-strike",
+        "valor_dolares": 30.0
+        },
+        {
+        "id": 10192,
+        "nombre": "Zarude-dada",
+        "valor_dolares": 30.0
+        },
+        {
+        "id": 10193,
+        "nombre": "Calyrex-ice",
+        "valor_dolares": 30.0
+        },
+        {
+        "id": 10194,
+        "nombre": "Calyrex-shadow",
+        "valor_dolares": 30.0
+        },
+        {
+        "id": 10195,
+        "nombre": "Venusaur-gmax",
+        "valor_dolares": 65.0
+        },
+        {
+        "id": 10196,
+        "nombre": "Charizard-gmax",
+        "valor_dolares": 65.0
+        },
+        {
+        "id": 10197,
+        "nombre": "Blastoise-gmax",
+        "valor_dolares": 65.0
+        },
+        {
+        "id": 10198,
+        "nombre": "Butterfree-gmax",
+        "valor_dolares": 65.0
+        },
+        {
+        "id": 10199,
+        "nombre": "Pikachu-gmax",
+        "valor_dolares": 65.0
+        },
+        {
+        "id": 10200,
+        "nombre": "Meowth-gmax",
+        "valor_dolares": 65.0
+        },
+        {
+        "id": 10201,
+        "nombre": "Machamp-gmax",
+        "valor_dolares": 65.0
+        },
+        {
+        "id": 10202,
+        "nombre": "Gengar-gmax",
+        "valor_dolares": 10.0
+        },
+        {
+        "id": 10203,
+        "nombre": "Kingler-gmax",
+        "valor_dolares": 65.0
+        },
+        {
+        "id": 10204,
+        "nombre": "Lapras-gmax",
+        "valor_dolares": 65.0
+        },
+        {
+        "id": 10205,
+        "nombre": "Eevee-gmax",
+        "valor_dolares": 65.0
+        },
+        {
+        "id": 10206,
+        "nombre": "Snorlax-gmax",
+        "valor_dolares": 65.0
+        },
+        {
+        "id": 10207,
+        "nombre": "Garbodor-gmax",
+        "valor_dolares": 65.0
+        },
+        {
+        "id": 10208,
+        "nombre": "Melmetal-gmax",
+        "valor_dolares": 65.0
+        },
+        {
+        "id": 10209,
+        "nombre": "Rillaboom-gmax",
+        "valor_dolares": 65.0
+        },
+        {
+        "id": 10210,
+        "nombre": "Cinderace-gmax",
+        "valor_dolares": 65.0
+        },
+        {
+        "id": 10211,
+        "nombre": "Inteleon-gmax",
+        "valor_dolares": 65.0
+        },
+        {
+        "id": 10212,
+        "nombre": "Corviknight-gmax",
+        "valor_dolares": 65.0
+        },
+        {
+        "id": 10213,
+        "nombre": "Orbeetle-gmax",
+        "valor_dolares": 65.0
+        },
+        {
+        "id": 10214,
+        "nombre": "Drednaw-gmax",
+        "valor_dolares": 65.0
+        },
+        {
+        "id": 10215,
+        "nombre": "Coalossal-gmax",
+        "valor_dolares": 65.0
+        },
+        {
+        "id": 10216,
+        "nombre": "Flapple-gmax",
+        "valor_dolares": 65.0
+        },
+        {
+        "id": 10217,
+        "nombre": "Appletun-gmax",
+        "valor_dolares": 65.0
+        },
+        {
+        "id": 10218,
+        "nombre": "Sandaconda-gmax",
+        "valor_dolares": 65.0
+        },
+        {
+        "id": 10219,
+        "nombre": "Toxtricity-amped-gmax",
+        "valor_dolares": 65.0
+        },
+        {
+        "id": 10220,
+        "nombre": "Centiskorch-gmax",
+        "valor_dolares": 65.0
+        },
+        {
+        "id": 10221,
+        "nombre": "Hatterene-gmax",
+        "valor_dolares": 65.0
+        },
+        {
+        "id": 10222,
+        "nombre": "Grimmsnarl-gmax",
+        "valor_dolares": 65.0
+        },
+        {
+        "id": 10223,
+        "nombre": "Alcremie-gmax",
+        "valor_dolares": 65.0
+        },
+        {
+        "id": 10224,
+        "nombre": "Copperajah-gmax",
+        "valor_dolares": 10.0
+        },
+        {
+        "id": 10225,
+        "nombre": "Duraludon-gmax",
+        "valor_dolares": 65.0
+        },
+        {
+        "id": 10226,
+        "nombre": "Urshifu-single-strike-gmax",
+        "valor_dolares": 65.0
+        },
+        {
+        "id": 10227,
+        "nombre": "Urshifu-rapid-strike-gmax",
+        "valor_dolares": 65.0
+        },
+        {
+        "id": 10228,
+        "nombre": "Toxtricity-low-key-gmax",
+        "valor_dolares": 65.0
+        },
+        {
+        "id": 10229,
+        "nombre": "Growlithe-hisui",
+        "valor_dolares": 25.0
+        },
+        {
+        "id": 10230,
+        "nombre": "Arcanine-hisui",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10231,
+        "nombre": "Voltorb-hisui",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10232,
+        "nombre": "Electrode-hisui",
+        "valor_dolares": 25.0
+        },
+        {
+        "id": 10233,
+        "nombre": "Typhlosion-hisui",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10234,
+        "nombre": "Qwilfish-hisui",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10235,
+        "nombre": "Sneasel-hisui",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10236,
+        "nombre": "Samurott-hisui",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10237,
+        "nombre": "Lilligant-hisui",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10238,
+        "nombre": "Zorua-hisui",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10239,
+        "nombre": "Zoroark-hisui",
+        "valor_dolares": 30.0
+        },
+        {
+        "id": 10240,
+        "nombre": "Braviary-hisui",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10241,
+        "nombre": "Sliggoo-hisui",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10242,
+        "nombre": "Goodra-hisui",
+        "valor_dolares": 29.0
+        },
+        {
+        "id": 10243,
+        "nombre": "Avalugg-hisui",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10244,
+        "nombre": "Decidueye-hisui",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10245,
+        "nombre": "Dialga-origin",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10246,
+        "nombre": "Palkia-origin",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10247,
+        "nombre": "Basculin-white-striped",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10248,
+        "nombre": "Basculegion-female",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10249,
+        "nombre": "Enamorus-therian",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10250,
+        "nombre": "Tauros-paldea-combat-breed",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10251,
+        "nombre": "Tauros-paldea-blaze-breed",
+        "valor_dolares": 35.0
+        },
+        {
+        "id": 10252,
+        "nombre": "Tauros-paldea-aqua-breed",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10253,
+        "nombre": "Wooper-paldea",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10254,
+        "nombre": "Oinkologne-female",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10255,
+        "nombre": "Dudunsparce-three-segment",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10256,
+        "nombre": "Palafin-hero",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10257,
+        "nombre": "Maushold-family-of-three",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10258,
+        "nombre": "Tatsugiri-droopy",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10259,
+        "nombre": "Tatsugiri-stretchy",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10260,
+        "nombre": "Squawkabilly-blue-plumage",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10261,
+        "nombre": "Squawkabilly-yellow-plumage",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10262,
+        "nombre": "Squawkabilly-white-plumage",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10263,
+        "nombre": "Gimmighoul-roaming",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10264,
+        "nombre": "Koraidon-limited-build",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10265,
+        "nombre": "Koraidon-sprinting-build",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10266,
+        "nombre": "Koraidon-swimming-build",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10267,
+        "nombre": "Koraidon-gliding-build",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10268,
+        "nombre": "Miraidon-low-power-mode",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10269,
+        "nombre": "Miraidon-drive-mode",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10270,
+        "nombre": "Miraidon-aquatic-mode",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10271,
+        "nombre": "Miraidon-Glide-Mode",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10272,
+        "nombre": "Ursaluna-Bloodmoon",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10273,
+        "nombre": "Ogerpon-Wellspring-Mask",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10274,
+        "nombre": "Ogerpon-Hearthflame-Mask",
+        "valor_dolares": 20.0
+        },
+        {
+        "id": 10275,
+        "nombre": "Ogerpon-Cornerstone-Mask",
+        "valor_dolares": 20.0
+        }
+        
+    ]

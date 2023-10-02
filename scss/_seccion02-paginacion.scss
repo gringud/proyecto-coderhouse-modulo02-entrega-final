@@ -1,0 +1,119 @@
+.seccion02-paginacion,
+.seccion02-tipos,
+.seccion02-buscarNombre{
+    background-color: $colorPrincipal;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    .limit {
+        display: grid;
+        grid-template-columns: auto auto;
+        justify-content: center;
+        gap: 10px;
+        margin-top: 16px;
+        p {
+            font-size: 20px;
+            margin: 0;
+            padding: 5px 0px;
+            color: #fff;
+        }
+        select {
+            outline: none;
+            font-size: 20px;
+            border: 0px;
+            border-radius: 8px;
+            font-family: 'Baloo 2', 'helvetica', cursive;
+        }
+        
+    }
+    .navigation{
+        padding-top: 15px;
+        padding-bottom: 5px;
+        display: flex;
+        justify-content: center;
+        margin-top: 2%;
+        .navigation-botones{
+            display: flex;
+            align-items: center;
+            padding: 0px 25px;
+            a{
+                font-size: 50px;
+                font-weight: bold;
+                color: rgb(255, 255, 255);
+                text-decoration: none;
+                display: grid;
+                
+                padding-bottom: 10px;
+                margin: 0px;
+                
+
+                &:hover{
+                    border-radius: 25px;
+                    box-shadow: rgb(253 253 253 / 34%) 0px 0px 0px 2px;
+                    transform: scale(1.2);
+                }
+
+            }
+            .numbers{
+                margin-left: 10px;
+                margin-right: 10px;
+                span button {
+                    font-size: 20px;
+                    padding: 0 2px;
+                    font-family: 'Baloo 2', 'helvetica';
+                    background-color: #ffffff00;
+                    border: 0;
+                    color: #fff;
+                    cursor: pointer;
+                    margin: 0 2px;
+
+                    &:hover {
+                        border-radius: 25px;
+                        box-shadow: rgb(253 253 253 / 34%) 0px 0px 0px 2px;
+                        transform: scale(1.2);
+                    }
+                }
+            }
+        }
+    }
+}
+
+.current button{
+    box-shadow: rgb(253 253 253 / 34%) 0px 0px 0px 2px;
+    border-radius: 25px;
+} 
+
+header{
+    display: grid;
+    .seccion02-tipos{
+        display: grid;
+        
+        p{
+            font-weight: bold;
+            text-align: center;
+            font-size: 28px;
+        }
+        .tipos-container{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-evenly;
+            margin: 30px;
+            border: 5px solid rgba(0, 0, 0, 0.369);
+            border-radius: 30px;
+                        
+            .checkboxDiv{
+                width: 140px;
+                padding: 10px 20px;
+                margin: 2px;
+                display: grid;
+                grid-template-columns: 20px auto;
+                font-size: 22px;
+                /* border: 1px solid rgba(0, 0, 0, 0.448);
+                border-radius: 10px; */
+                .checkradio-text{
+                    text-transform: capitalize;
+                }
+            }
+        }
+    }
+
+}

@@ -1,0 +1,56 @@
+.nav{
+    background-color: $colorPrincipal;
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+    height: 80px;
+    font-weight: bold;
+    .nav-der{
+        align-self: center;
+        img{
+            width: 50px;
+            
+        }
+    }
+
+    .nav-centro{
+        align-self: center;
+        height: 100%;
+        display: grid;
+        font-size: 20px;
+        .nav-centro-arriba{
+            display: grid;
+            align-items: center;
+            justify-items: center;
+        }
+        .nav-centro-abajo{
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+            
+            a{
+                text-decoration: none;
+                color: black;
+                cursor: pointer;
+                
+            }
+        }
+    }
+
+
+    .nav-izq{
+        align-self: center;
+        display: grid;
+        justify-content: center;
+        a{
+            text-decoration: none;
+            color: black;
+            display: flex;
+            align-items: center;
+            img{
+                width: 30px ;
+                margin-left: 10px;
+            }
+            
+        }
+    }
+}
