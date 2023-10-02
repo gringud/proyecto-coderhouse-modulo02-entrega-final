@@ -20,6 +20,7 @@ export default function navBar(navBar, ubicacion){
                     <a href="${(ubicacion === "index")? "": "./."}./pages/carrito.html">Carrito 
                         <img src="${(ubicacion === "index")? "": "./."}./images/img/carrito.png" alt="">
                     </a>
+                    <span id="bolitaCarrito"></span>
                 </div>
                 `;
     

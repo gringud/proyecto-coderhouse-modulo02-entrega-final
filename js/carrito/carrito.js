@@ -1,5 +1,6 @@
 import cargarCarrito from "../secciones/compartido/cargarCarrito.js";
 import actualizarLocalStorage from "../secciones/compartido/actualizarLocalStorage.js"
+import actualizarContadorCarrito from "../secciones/compartido/actualizarContadorCarrito.js";
 
 
 const d = document;
@@ -189,6 +190,9 @@ export default function mostrarCarrito(gridSeccion3){
                     console.log("son distintos");
                 }
             })
+
+            
+            actualizarContadorCarrito(carritoObjeto);
 
         }
     })

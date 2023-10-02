@@ -6,13 +6,13 @@ let carritoTemporal = [];
 let carritoGuardarJSON;
 
 export default function guardarCarrito(carritoObjeto, carritoID, carritoURL, carritoNombre, carritoValor){
-    console.log("Estoy guardandoo!!!");
+    /* console.log("Estoy guardandoo!!!");
     console.log(carritoObjeto);
-    console.log(carritoID, carritoURL, carritoNombre, carritoValor);
+    console.log(carritoID, carritoURL, carritoNombre, carritoValor); */
 
     if (carritoObjeto.length === 0 ){
-        console.log("Carrito Vacio");
-        console.log("Entre por nuevo");
+        /* console.log("Carrito Vacio");
+        console.log("Entre por nuevo"); */
         carritoObjeto.push(
             {id: carritoID,
             url: carritoURL,
@@ -21,7 +21,7 @@ export default function guardarCarrito(carritoObjeto, carritoID, carritoURL, car
             cantidad: 1}
         )
     } else {
-        console.log("Carrito con algo");
+        /* console.log("Carrito con algo"); */
         let itemDistinto = "distinto";
         carritoObjeto.forEach(el =>{
             if (el.id === carritoID){
@@ -34,7 +34,7 @@ export default function guardarCarrito(carritoObjeto, carritoID, carritoURL, car
         })
 
         if (itemDistinto === "distinto"){
-            console.log("Entre por distinto");
+            /* console.log("Entre por distinto"); */
             carritoObjeto.push(
                 {id: carritoID,
                 url: carritoURL,
@@ -45,7 +45,7 @@ export default function guardarCarrito(carritoObjeto, carritoID, carritoURL, car
         }
     }    
 
-    console.log(carritoObjeto);
+    /* console.log(carritoObjeto); */
     carritoGuardarJSON = JSON.stringify(carritoObjeto);
 
     ls.setItem("carritoStorePoke", carritoGuardarJSON)

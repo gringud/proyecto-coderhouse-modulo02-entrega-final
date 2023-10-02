@@ -1,6 +1,7 @@
 import cargarCarrito from "./compartido/cargarCarrito.js";
 import consultCargaTemplete from "./compartido/consultCargaTemplete.js";
 import guardarCarrito from "./compartido/guardarCarrito.js";
+import actualizarContadorCarrito from "./compartido/actualizarContadorCarrito.js"
 
 const   d = document,
         ls = localStorage;
@@ -169,22 +170,29 @@ export default function seccion02(gridSeccion2, gridSeccion3, ubicacion){
             let posicionID=0;
 
             (el.target.value<1018)? posicionID = el.target.value-1: posicionID = (parseInt(el.target.value))-8984;
-            console.log("valor posision id ----> "+posicionID);
+            /* console.log("valor posision id ----> "+posicionID); */
 
             let carritoID = carritoGuardar[posicionID].id,
                 carritoURL = el.target.name,
                 carritoNombre = carritoGuardar[posicionID].nombre,
                 carritoValor = carritoGuardar[posicionID].valor_dolares;
 
-                console.log(carritoObjeto);
+                /* console.log(carritoObjeto); */
 
                 carritoObjeto = cargarCarrito();
             
                 if (carritoObjeto === null){
                     carritoObjeto = [];
                 }
+            
+            /* actualizarLocalStorage(carritoObjeto); */
 
+            
+            
             guardarCarrito(carritoObjeto, carritoID, carritoURL, carritoNombre, carritoValor);
+            
+            console.log("aprete el boton agregar!!!!");
+            actualizarContadorCarrito(carritoObjeto);
         }
     })
 
@@ -199,7 +207,7 @@ export default function seccion02(gridSeccion2, gridSeccion3, ubicacion){
 
     carritoObjeto = JSON.parse(miCarritoDeCompras); */
 
-    console.log(carritoObjeto);
+    /* console.log(carritoObjeto); */
     /* carritoObjeto.forEach(el =>{
         console.log(el);
     }) */
