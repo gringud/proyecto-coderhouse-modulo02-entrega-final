@@ -37,58 +37,71 @@ export default function mostrarCarrito(gridSeccion3){
         $carritoIzq.innerHTML="";
         console.log(carritoObjeto);
 
-        if (carritoObjeto.length === 0){
-            console.log("carrito Vacio");
-            console.log("supuestamente acada deberia empezar a cargarr vacio");
+        if (carritoObjeto != null){
+            if (carritoObjeto.length === 0){
+                console.log("carrito Vacio");
+                console.log("supuestamente acada deberia empezar a cargarr vacio");
+                $carritoIzq.innerHTML=  `
+                                        <p class="carritoVacio">
+                                            Carrito de compras Vacio
+                                        </p>
+                                        `;
+            } else{
+                //aca poner cargar grid de productos
+                carritoObjeto.forEach(el =>{
+                    console.log(el.url);
+                    resumenCantidad = resumenCantidad + el.cantidad;
+                    resumenTotal = resumenTotal + (el.valor * el.cantidad);
+                    $carritoIzq.innerHTML += `
+                                            <div class="producto">
+                                                <div class="prod-arriba">
+                                                    <div class="prod-arriba-izq">
+                                                        <img class="prod-arriba-logo" src="./../images/pokemonIco.svg" alt="">
+                                                        <p class="prod-arriba-nombre">PokeStore</p>
+                                                    </div>
+                                                    <div class="prod-arriba-der">
+                                                        <p>#${el.id}</p>
+                                                    </div>                                    
+                                                </div>
+                                                <div class="prod-medio">
+                                                <div class="prod-medio-izq">
+                                                    <img class="carrito-img" src="${el.url}" alt="">
+                                                </div>
+                                                <div class="prod-medio-centro">
+                                                    <p class="nombre-producto">${el.name}</p>
+                                                    <div class="prod-medio-centro-medio">
+                                                    <p>Eliminar</p>
+                                                    <p>Guardar</p>
+                                                    <p>Comprar ahora</p>
+                                                    </div>
+                                                    <div class="prod-medio-abajo">
+                                                    <button class="botones-carrito-menos" value="${el.id}">-</button>
+                                                    <p class="carritoCantidad(${el.id})" value="${el.id}">${el.cantidad}</p>
+                                                    <button class="botones-carrito-mas" value="${el.id}">+</button>
+                                                    </div>
+                                                </div>
+                                                <div class="prod-medio-der">US$ ${el.valor}</div>
+                                                
+                                                </div>
+                                                <div class="prod-abajo">
+                                                <p class="prod-abajo-envio">Total</p>
+                                                <p class="prod-abajo-precio carritoSubtotal(${el.id})">US$ ${el.cantidad*el.valor}</p>
+                                                </div>
+                                            </div>
+                                            `
+                })    
+            }
+        } else {
+            //cargar el carritoVAcio
             $carritoIzq.innerHTML=  `
-                                    <p class="carritoVacio">
-                                        Carrito de compras Vacio
-                                    </p>
-                                    `;
-        } else{
-            //aca poner cargar grid de productos
-            carritoObjeto.forEach(el =>{
-                console.log(el.url);
-                resumenCantidad = resumenCantidad + el.cantidad;
-                resumenTotal = resumenTotal + (el.valor * el.cantidad);
-                $carritoIzq.innerHTML += `
-                                        <div class="producto">
-                                            <div class="prod-arriba">
-                                                <div class="prod-arriba-izq">
-                                                    <img class="prod-arriba-logo" src="./../images/pokemonIco.svg" alt="">
-                                                    <p class="prod-arriba-nombre">PokeStore</p>
-                                                </div>
-                                                <div class="prod-arriba-der">
-                                                    <p>#${el.id}</p>
-                                                </div>                                    
-                                            </div>
-                                            <div class="prod-medio">
-                                            <div class="prod-medio-izq">
-                                                <img class="carrito-img" src="${el.url}" alt="">
-                                            </div>
-                                            <div class="prod-medio-centro">
-                                                <p class="nombre-producto">${el.name}</p>
-                                                <div class="prod-medio-centro-medio">
-                                                <p>Eliminar</p>
-                                                <p>Guardar</p>
-                                                <p>Comprar ahora</p>
-                                                </div>
-                                                <div class="prod-medio-abajo">
-                                                <button class="botones-carrito-menos" value="${el.id}">-</button>
-                                                <p class="carritoCantidad(${el.id})" value="${el.id}">${el.cantidad}</p>
-                                                <button class="botones-carrito-mas" value="${el.id}">+</button>
-                                                </div>
-                                            </div>
-                                            <div class="prod-medio-der">US$ ${el.valor}</div>
-                                            
-                                            </div>
-                                            <div class="prod-abajo">
-                                            <p class="prod-abajo-envio">Total</p>
-                                            <p class="prod-abajo-precio carritoSubtotal(${el.id})">US$ ${el.cantidad*el.valor}</p>
-                                            </div>
-                                        </div>
-                                        `
-            })    
+                                        <p class="carritoVacio">
+                                            Carrito de compras Vacio
+                                        </p>
+                                        `;
+
+
+
+
         }
     }
     
