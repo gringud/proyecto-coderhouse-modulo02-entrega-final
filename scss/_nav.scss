@@ -40,8 +40,16 @@
     .nav-izq{
         align-self: center;
         display: grid;
-        justify-content: center;
         position: relative;
+        
+        width: 100%;
+        height: 100%;
+        justify-items: center;
+        align-items: center;
+        /* z-index: 1; */
+        #bolitaCarrito{
+            /* z-index: 2; */
+        }
         
         
         a{
@@ -54,27 +62,26 @@
                 width: 30px ;
                 margin-left: 10px;
             }
-            
-        }
-        .bolitaCarrito{
-            position: absolute;
-            background-color: red;
-            
-            width: 16px;
-            height: 16px;
-            
-            font-size: 12px;
-            border-radius: 50%;
-            text-align: center;
-            display: grid;
-            align-items: center;
 
-            left: 85px;
-            top: 20px;
-            /* right: 10px; */
-            
-            
-            
+            .bolitaCarrito{
+                display: block;
+                position: relative;
+                background-color: red;
+                
+                width: 16px;
+                height: 16px;
+                
+                font-size: 12px;
+                border-radius: 50%;
+                text-align: center;
+                display: grid;
+                align-items: center;
+                
+                left:-7px;
+                top: 13px;
+            }
         }
+
+        
     }
 }

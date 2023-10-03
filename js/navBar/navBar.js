@@ -17,10 +17,10 @@ export default function navBar(navBar, ubicacion){
                     </div>
                 </div>
                 <div class="nav-izq">
-                    <a href="${(ubicacion === "index")? "": "./."}./pages/carrito.html">Carrito 
+                    <a href="${(ubicacion === "index")? "": "./."}./pages/carrito.html">
                         <img src="${(ubicacion === "index")? "": "./."}./images/img/carrito.png" alt="">
+                        <span id="bolitaCarrito"></span>
                     </a>
-                    <span id="bolitaCarrito"></span>
                 </div>
                 `;
     

@@ -1,6 +1,7 @@
 import cargarCarrito from "../secciones/compartido/cargarCarrito.js";
 import actualizarLocalStorage from "../secciones/compartido/actualizarLocalStorage.js"
 import actualizarContadorCarrito from "../secciones/compartido/actualizarContadorCarrito.js";
+import cargarBarraCarrito from "./barraCarrito.js";
 
 
 const d = document;
@@ -113,11 +114,11 @@ export default function mostrarCarrito(gridSeccion3){
                                 <div class="resumen-medio">
                                 <div class="resumen-cant-prod">
                                     <p> Productos (${resumenCantidad})</p>
-                                    <div class="resumen-cant-prod-val">$ ${resumenTotal}</div>
+                                    <div class="resumen-cant-prod-val">U$S ${resumenTotal}</div>
                                 </div>
                                 <div class="resumen-env-prod">
                                     <p>Envios</p>
-                                    <div class="resumen-env-prod-val">$ 1.000</div>
+                                    <div class="resumen-env-prod-val">U$S 120</div>
                                 </div>
                                 <div class="resumen-codigo-promo">
                                     <p>Igresa codigo de cupon</p>
@@ -125,10 +126,18 @@ export default function mostrarCarrito(gridSeccion3){
                                 </div>
                                 <div class="resumen-total-compra">
                                     <p>Total</p>
-                                    <div class="resumen-total-compra">$ ${resumenTotal}</div>
+                                    <div class="resumen-total-compra">U$S ${resumenTotal}</div>
                                 </div>
                                 </div>
-                                <div class="resumen-boton">Continuar compra</div>
+                                <div class="resumenFinalizar">
+                                    <p>Envio gratis desde U$S 120</p>
+                                    <div class="barraEnvio">
+                                        <span class="barraEnvioAtras">
+                                            <span class="barraEnvioDelante"></span>
+                                        </span>
+                                    </div>
+                                    <div class="resumen-boton">Continuar compra</div>
+                                </div>
                             </div>
     
                             `
@@ -193,6 +202,7 @@ export default function mostrarCarrito(gridSeccion3){
 
             
             actualizarContadorCarrito(carritoObjeto);
+            cargarBarraCarrito(resumenTotal);
 
         }
     })
@@ -230,10 +240,17 @@ export default function mostrarCarrito(gridSeccion3){
             })
 
         }
+
+        cargarBarraCarrito(resumenTotal);
+
     })
+
 
     cargarGridProductos();
     cargarGridTotal();
+
+
+    cargarBarraCarrito(resumenTotal);
 };
 
 
