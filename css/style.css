@@ -13,7 +13,10 @@ html {
   display: grid;
   grid-template-columns: 1fr 3fr 1fr;
   height: 80px;
+  width: 100%;
   font-weight: bold;
+  position: fixed;
+  z-index: 9999;
 }
 .nav .nav-der {
   align-self: center;
@@ -85,6 +88,10 @@ html {
   background-color: #7D4CE0;
   padding-top: 40px;
   padding-bottom: 20px;
+  height: 320px;
+  display: grid;
+  align-items: end;
+  justify-content: center;
 }
 .seccion01-titulo .imgLogo {
   width: 550px;

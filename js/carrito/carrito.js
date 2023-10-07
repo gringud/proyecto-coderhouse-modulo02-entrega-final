@@ -87,7 +87,7 @@ export default function mostrarCarrito(gridSeccion3){
                                                 </div>
                                                 <div class="prod-abajo">
                                                 <p class="prod-abajo-envio">Total</p>
-                                                <p class="prod-abajo-precio carritoSubtotal(${el.id})">US$ ${el.cantidad*el.valor}</p>
+                                                <p class="prod-abajo-precio id="" carritoSubtotal(${el.id})">US$ ${el.cantidad*el.valor}</p>
                                                 </div>
                                             </div>
                                             `
@@ -113,7 +113,7 @@ export default function mostrarCarrito(gridSeccion3){
                                 <div class="resumen-arriba">Resumen de compra</div>
                                 <div class="resumen-medio">
                                 <div class="resumen-cant-prod">
-                                    <p> Productos (${resumenCantidad})</p>
+                                    <p id="product-description"> Productos (${resumenCantidad})</p>
                                     <div class="resumen-cant-prod-val">U$S ${resumenTotal}</div>
                                 </div>
                                 <div class="resumen-env-prod">
@@ -126,7 +126,7 @@ export default function mostrarCarrito(gridSeccion3){
                                 </div>
                                 <div class="resumen-total-compra">
                                     <p>Total</p>
-                                    <div class="resumen-total-compra">U$S ${resumenTotal}</div>
+                                    <div class="resumen-total-compra" id="unit-price"> ${resumenTotal}</div>
                                 </div>
                                 </div>
                                 <div class="resumenFinalizar">
@@ -136,7 +136,9 @@ export default function mostrarCarrito(gridSeccion3){
                                             <span class="barraEnvioDelante"></span>
                                         </span>
                                     </div>
-                                    <div class="resumen-boton">Continuar compra</div>
+                                    <div class="resumen-boton checkout-btn" id="checkout-btn">Continuar compra</div>
+                                    <div id="button-checkout"></div>
+                                    
                                 </div>
                             </div>
     
@@ -239,10 +241,17 @@ export default function mostrarCarrito(gridSeccion3){
                 }
             })
 
+            cargarBarraCarrito(resumenTotal);
         }
 
-        cargarBarraCarrito(resumenTotal);
 
+    })
+
+    d.addEventListener("click", el => {
+        if (el.target.matches(".checkout-btn")){
+            // aca poner link de mercadopago
+            console.log("Finalizar la compra");
+        } 
     })
 
 
@@ -252,6 +261,8 @@ export default function mostrarCarrito(gridSeccion3){
 
     cargarBarraCarrito(resumenTotal);
 };
+
+
 
 
 /* const filtradoArray = array.filter((item) => item.id !== 2)

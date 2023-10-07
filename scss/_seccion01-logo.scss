@@ -2,8 +2,13 @@
     background-color: $colorPrincipal;
     padding-top: 40px;
     padding-bottom: 20px;
+    height: 320px;
+    display: grid;
+    align-items: end;
+    justify-content: center;
     .imgLogo{
-        width: 550px;
+        width:550px;
+        
         
 
         @media screen and (max-width:568px){
