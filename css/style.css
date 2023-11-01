@@ -44,6 +44,13 @@ html {
   text-decoration: none;
   color: black;
   cursor: pointer;
+  padding: 3px 10px;
+  border-radius: 15px;
+  border: 1px solid black;
+}
+.nav .nav-centro .nav-centro-abajo a:hover {
+  background-color: rgb(116, 30, 202);
+  box-shadow: 2px 2px 0px 0px black;
 }
 .nav .nav-izq {
   align-self: center;
