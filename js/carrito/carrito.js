@@ -250,6 +250,32 @@ export default function mostrarCarrito(gridSeccion3){
     d.addEventListener("click", el => {
         if (el.target.matches(".checkout-btn")){
             // aca poner link de mercadopago
+
+
+
+            //aca poner limpieza de carrito y demas
+
+            Swal.fire({
+                title: '¿Desea finalizar la compra?',
+                showDenyButton: true,
+                /* showCancelButton: true, */
+                confirmButtonText: 'Confirmar',
+                denyButtonText: `Volver a carrito`,
+              }).then((result) => {
+                /* Read more about isConfirmed, isDenied below */
+                if (result.isConfirmed) {
+                    Swal.fire('Compra finalizada, su pedido sera enviado en 72 Hs.', '', 'success')
+                    localStorage.removeItem("carritoStorePoke");
+                    location.reload();  // actualizo la pagina
+                    /* ls.removeItem("carritoStorePoke"); */
+                } else if (result.isDenied) {
+                  Swal.fire('Compra cancelada volviendo al carrito', '', 'info')
+                }
+              })
+
+
+
+
             console.log("Finalizar la compra");
         } 
     })
